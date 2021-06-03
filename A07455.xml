@@ -1,0 +1,3069 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here begynneth a lytel treatyse of ye byrth &amp; p[ro]phecye of Marlyn</title>
+         </titleStmt>
+         <extent>Approx. 112KB of XML-encoded text transcribed from 45 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A07455</idno><idno type="EEBO-CITATION">99836586</idno>
+  <idno type="VID">868</idno>
+  <idno type="EEBO-PROQUEST">2264213549</idno>
+  <idno type="STC">STC 17841</idno>
+  <idno type="STC">ESTC S100757</idno>
+  
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99836586e"/>
+            <note>(EEBO-TCP ; phase 2, no. A07455)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 868)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 1178:14)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here begynneth a lytel treatyse of ye byrth &amp; p[ro]phecye of Marlyn</title>
+               </titleStmt>
+               <extent>[88] p.   </extent>
+               <publicationStmt>
+                  <publisher>In flete strete at the sygne of ye sonne by Wynkyn de Worde,</publisher>
+                  <pubPlace>[Enprynted at Lo[n]don :</pubPlace>
+                  <date>the yere of oure lorde a. M.CCCCC. and. x] [1510]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imprint from colophon.</note>
+                  <note>In verse.</note>
+                  <note>Signatures: A B⁴ C D⁴ E F⁴ G.</note>
+                  <note>Leaf A1 (title page) torn.</note>
+                  <note>Reproduction of the original in the Pierpont Morgan Library, New York City.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="topical_term">Merlin (Legendary character) --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-03 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>John Pas</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:868:1"/>
+            <pb facs="tcp:868:1"/>
+            <head>Here begynneth a lytel treatyse of y<seg rend="sup">e</seg> byrth &amp; {pro}phecye of Marlyn</head>
+            <p>
+               <figure>
+                  <figDesc>woodcut</figDesc>
+                  <p>Marlyn.</p>
+                  <p>Pedra.</p>
+                  <p>Vther.</p>
+               </figure>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:868:2"/>
+            <l>CRyste on crosse his blode y<seg rend="sup">t</seg> ble<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+            </l>
+            <l>And lyfe for lyfe he layd to w<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+            </l>
+            <l>As it was his wyll</l>
+            <l>Graūt thē grace of myrthes <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>Ioye and blysse in all theyr <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>That me herkeneth tyll</l>
+            <l>I shall you tell solace and game</l>
+            <l>Frendes felawes sythe all in same</l>
+            <l>And herken of grete nobly</l>
+            <l>Sounde and sauffe than mote ye be</l>
+            <l>And all that herkeneth vnto me</l>
+            <l>What I shall you say</l>
+            <l>I shall you tell here afore</l>
+            <l>How Merlyn was goten and <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>And of his dedes also</l>
+            <l>And of other meruaylles many mo</l>
+            <l>Some tyme in Englonde was a kynge</l>
+            <l>A noble man in all thynge</l>
+            <l>I warre he was ware and wys</l>
+            <l>Constantyne the kynge hyghtywys</l>
+            <l>Sones he had full fayre thre</l>
+            <l>The fayrest that in londe myght be</l>
+            <l>The eldest sone that was his heyr ryght</l>
+            <l>Moyn he hyght</l>
+            <l>The medlest sone hyght Pendragon</l>
+            <l>He was a man of grete renon</l>
+            <l>The yongest sone hyght Vter ryght</l>
+            <l>A styffe man and stronge in fyght</l>
+            <l>Constantyne the kynge ywys</l>
+            <l>In euery place he bate the prys</l>
+            <l>In his tyme was reynynge in englonde</l>
+            <l>A grete syknesse I vnderstonde</l>
+            <l>In that syknes the kynge fell tho</l>
+            <pb facs="tcp:868:2"/>
+            <l>That out of this worlde he must nedes go</l>
+            <l>After erles and barons he lete call</l>
+            <l>Whan they were come before hym all</l>
+            <l>Than sayd the kynge to them all</l>
+            <l>Lordynge lefe and hende</l>
+            <l>Out of this worlde I must wende</l>
+            <l>I praye you syrs for the loue of me</l>
+            <l>And for goddes loue and saynt charyte</l>
+            <l>Whan I am dede and layde in clay</l>
+            <l>Helpe my chyldren all that ye may</l>
+            <l>And Moyn myn eldest sone</l>
+            <l>Make hym kynge and gyue hym crowne</l>
+            <l>The kynge called as ye may here</l>
+            <l>His stuarde that hyght Vortygere</l>
+            <l>Stronge he was wyse and daungerous</l>
+            <l>And false and fekle and full couetous</l>
+            <l>The kynge he had serued longe</l>
+            <l>For he was styffe and stronge</l>
+            <l>Whan Moyn was chosen kynge</l>
+            <l>In to denmarke the worde gan sprynge</l>
+            <l>And whan angys worde had</l>
+            <l>Therof he was ryght glad</l>
+            <l>He sente after messagers in that tyde</l>
+            <l>Ouer all his londe on eche syde</l>
+            <l>For many a stoute man and stronge</l>
+            <l>Of genus and of danes londe</l>
+            <l>An hondred thousande and many mo</l>
+            <l>On hors and on fote also</l>
+            <l>Came to hym there letted none</l>
+            <l>For to warre on the yonge kynge Moyn</l>
+            <l>Kynge angys wolde not abyde</l>
+            <l>Vnto shyp he wente in that tyde</l>
+            <l>And brought in to Englonde syn</l>
+            <pb facs="tcp:868:3"/>
+            <l>Many a doughty sarasyn</l>
+            <l>As Englonde was called that day</l>
+            <l>The more brytayne withouten nay</l>
+            <l>Worde anone aboute gan sprynge</l>
+            <l>How the denysshe kynge angys</l>
+            <l>Gan wyrche moche amys</l>
+            <l>Mony the kynge herde that it was so</l>
+            <l>He wente to syr Vortyger tho</l>
+            <l>With full grete mournynge chere</l>
+            <l>He prayed hym with good vygure</l>
+            <l>That he wolde be his gouernoure</l>
+            <l>Ayenst his fomen for to fyght</l>
+            <l>And he sayd that he ne myght</l>
+            <l>He made hym seke as traytour stronge</l>
+            <l>And neyther for ryght ne for wronge</l>
+            <l>Wolde he come in batayll</l>
+            <l>For his strength hym gan fayll</l>
+            <l>For his pourpose that he had on honde</l>
+            <l>Was to be kynge of this londe</l>
+            <l>The kynge wolde no more hym pray</l>
+            <l>But toke his leue and wente his way</l>
+            <l>His messengers he sente that tyde</l>
+            <l>Ouer all his londe on euery syde</l>
+            <l>To duke / Erle / Baron / and knyght</l>
+            <l>To come to hym in that fyght</l>
+            <l>And whan they were all ycome</l>
+            <l>And euerche had his armes nome</l>
+            <l>They prycked forth without fayle</l>
+            <l>And gaue the denysshe kynge batayll</l>
+            <l>There was broken many a crowne</l>
+            <l>And slayne was many a bolde barowne</l>
+            <l>Many a doughty man that tyde</l>
+            <l>Was slayne with woundes wyde</l>
+            <pb facs="tcp:868:3"/>
+            <l>And the denysshe kynge was so stronge</l>
+            <l>With speres and with knyues longe</l>
+            <l>All that they myght in that stounde</l>
+            <l>Were slayne and layed to grounde</l>
+            <l>So the englysshe folke that day</l>
+            <l>Were dyscomfyted and fledde away</l>
+            <l>Kynge Moyn in that tyde</l>
+            <l>Toke his horse and faste gan ryde</l>
+            <l>Kynge angys there before</l>
+            <l>Sawe his folke many lore</l>
+            <l>Sone he sente his sonde</l>
+            <l>Home ayen in to his londe</l>
+            <l>For all that myght wepen bere</l>
+            <l>Sholde come to englonde for to were</l>
+            <l>Of warre wolde he not blynne</l>
+            <l>For toures and castelles he dyde wynne</l>
+            <l>And wrought them all moche wronge</l>
+            <l>All the erles and barons in Englonde</l>
+            <l>They toke them all togyder anone</l>
+            <l>For to wreke them of theyr fone</l>
+            <l>Whan they were come as I you tell</l>
+            <l>Erles and barons that were full fell</l>
+            <l>And sayd ywys that Moyn theyr kynge</l>
+            <l>Was not but a bretherlynge</l>
+            <l>And swore yf Vortyger theyr kynge ware</l>
+            <l>He wolde a wreke them of theyr care</l>
+            <l>And thought anone bothe olde yinge</l>
+            <l>To make syr Vortyger theyr kynge</l>
+            <l>And whan they had spoke of this</l>
+            <l>Twelue barons there wente ywys</l>
+            <l>To Vortyger the bolde</l>
+            <l>For to wreke them yf he wolde</l>
+            <pb facs="tcp:868:4"/>
+            <l>Agayne theyr fomen to fonde</l>
+            <l>To dryue them out of the londe</l>
+            <l>Whan the barons all in fere</l>
+            <l>Were come to syr Vortygere</l>
+            <l>Hendly they hym grette</l>
+            <l>He toke them vp and bad them sette</l>
+            <l>And bad them with wordes styll</l>
+            <l>To saye what was theyr wyll</l>
+            <l>And they answered agayne</l>
+            <l>And bad hym that he sholde sayne</l>
+            <l>Why that he wolde not gone</l>
+            <l>To helpe and wreke them of theyr fone</l>
+            <l>And sayd the kynge was nye slawe</l>
+            <l>And almoste brought of lyfe dawe</l>
+            <l>And sayd they myght neuer haue peas</l>
+            <l>For the denysshe folke without leas</l>
+            <l>That warred on hym bothe day &amp; nyght</l>
+            <l>And prayed hym that he myght</l>
+            <l>That he sholde take on honde</l>
+            <l>To helpe of that wronge</l>
+            <l>Ayenst theyr fomen to fare</l>
+            <l>For to brynge them out of care</l>
+            <l>Tho answered syr Vortyger</l>
+            <l>As a lorde of grete power</l>
+            <l>Why bydde ye me suche a thynge</l>
+            <l>I was neuer your kynge</l>
+            <l>Ne neuer yet here beforne</l>
+            <l>Was I to you sworne</l>
+            <l>To helpe you at your nede</l>
+            <l>And therfore so god me spede</l>
+            <l>Go home to your kynge</l>
+            <l>And pray hym vpon all thynge</l>
+            <l>That he you helpe of your fone</l>
+            <l>For helpe of me gete ye none</l>
+            <pb facs="tcp:868:4"/>
+            <l>Tho a bolde baron answerde</l>
+            <l>Syr our kynge is but a cowarde</l>
+            <l>For whan he seeth swerdes drawe</l>
+            <l>He weneth anone for to be slawe</l>
+            <l>He dooth vs no more good</l>
+            <l>But fleeth away as he were wood</l>
+            <l>Haddest thou be amonge vs all</l>
+            <l>Than had vs not that shame befall</l>
+            <l>All that we lost in that saute</l>
+            <l>In hym was all the defaute</l>
+            <l>And all the losse of our baner</l>
+            <l>I trowe well sayd Vortyger</l>
+            <l>Certes he sayd it was grete dole</l>
+            <l>To make a kynge so grete a fole</l>
+            <l>Had ye made a man your kynge</l>
+            <l>He wolde you helpe in all thynge</l>
+            <l>As certaynly sykerye be</l>
+            <l>Helpe gete ye none of me</l>
+            <l>But and your kynge were dede I plyght</l>
+            <l>I wolde you helpe with all my myght</l>
+            <l>Tho sayd the barons euerychone</l>
+            <l>Syr wyll ye that we hym stone</l>
+            <l>Vortyger sayd without stryfe</l>
+            <l>But ye byreue his lyfe</l>
+            <l>Myn helpe gete ye none ywys</l>
+            <l>The barons toke theyr leue with this</l>
+            <l>To wenchester they wente all</l>
+            <l>And founde kynge Moyn in his hall</l>
+            <l>As he satte at his mete</l>
+            <l>They ranne on hym with herte grete</l>
+            <l>As he satte at the borde</l>
+            <l>Or they spake ony worde</l>
+            <l>They smote of his hede anone</l>
+            <pb facs="tcp:868:5"/>
+            <l>And passed forth euerychone</l>
+            <l>Whan they had theyr kynge I sloo</l>
+            <l>Erles and barons hye and lowe</l>
+            <l>Also ryght they toke them to rede</l>
+            <l>A kynge they must haue nede</l>
+            <l>All Englonde for to warre</l>
+            <l>Aayenst theyr fomen y<seg rend="sup">e</seg> wolde them darre</l>
+            <l>Than had the kynge drethern two</l>
+            <l>yonge chyldren they were tho</l>
+            <l>They were so yonge within yelde</l>
+            <l>That they myght none armes welde</l>
+            <l>Neyther Vther ne Pendragon</l>
+            <l>Then sayd a bolde baron</l>
+            <l>That they sholde neuer spede</l>
+            <l>But yf a doughty man of dede</l>
+            <l>Were chosen to be kynge</l>
+            <l>They swore that Vortyger in all thynge</l>
+            <l>Was the best man of his londe</l>
+            <l>That was that tyme in Englonde</l>
+            <l>They swore togyder euerychone</l>
+            <l>That other kynge wolde they none</l>
+            <l>Tho was there neyther knyght ne swayne</l>
+            <l>That wolde saye a worde agayne</l>
+            <l>But graunted all bothe olde and yinge</l>
+            <l>That Vortyger sholde be theyr kynge</l>
+         </div>
+         <div type="part">
+            <l>MEry tyme it is in apryll</l>
+            <l>That semeth well by many skyll</l>
+            <l>In feldes and medes floures spryngeth</l>
+            <l>In grene wood foules syngeth</l>
+            <l>That maketh a man Iolyfe</l>
+            <l>Than lyketh bothe man and wyfe</l>
+            <l>So in that tyme as ye may here</l>
+            <pb facs="tcp:868:5"/>
+            <l>Twelue barons came to Vortygere</l>
+            <l>They sayd that Englonde ryght</l>
+            <l>was loste thrughe theyr kynge I plyght</l>
+            <l>And he was dede without lesynge</l>
+            <l>And his two bredren were to yingo</l>
+            <l>This kyngdome to holde in honde</l>
+            <l>Therfore the counseyll of this londe</l>
+            <l>Hath chosen you with grete vygure</l>
+            <l>For to be theyr gouernoure</l>
+            <l>Blythe and gladde was Vortyger</l>
+            <l>He was made kynge without daunger</l>
+            <l>At the feest of his coronament</l>
+            <l>Erles there was bothe fayre and gente</l>
+            <l>All this treason they vnderstode</l>
+            <l>And had reuth on the chyldrens blode</l>
+            <l>That they sholde be do to dede</l>
+            <l>Therfore they toke a better rede</l>
+            <l>And toke Vter and pendragon</l>
+            <l>And passed the see anone</l>
+            <l>So quantly they passed than</l>
+            <l>In all this londe there was no man</l>
+            <l>That wyst wbyther the chyldren by come</l>
+            <l>So pryuely away they nome</l>
+            <l>Whan the feest was holde</l>
+            <l>Anone Vortyger the bolde</l>
+            <l>Lete make a comune parlyament</l>
+            <l>Of Erles and of barons gent</l>
+            <l>At whiche parlyament he had thought</l>
+            <l>To haue slayne y<seg rend="sup">e</seg> chyldren with vnryght</l>
+            <l>And cōmaunded that his men were bone</l>
+            <l>To fetche Vter and Pendragon</l>
+            <l>And also soone after them he sente</l>
+            <l>But they myght fynde them nought</l>
+            <pb facs="tcp:868:6"/>
+            <l>Whan Vortyger that vnderstode</l>
+            <l>For anger he wexed nye wode</l>
+            <l>And thought yf they two lyue</l>
+            <l>To shameful deth they wolde hym dryue</l>
+            <l>And in his herte he was full wo</l>
+            <l>For they were scaped so</l>
+            <l>But neuertheles syr Vortygere</l>
+            <l>Lete commaunde ferre and nere</l>
+            <l>To duke / erle baron and knyght</l>
+            <l>To make them redy for to fyght</l>
+            <l>Ayenst theyr fomen for to fyght</l>
+            <l>That made thē sorowe bothe day &amp; nyght</l>
+            <l>They dyde dresse them ywys</l>
+            <l>In armes and on hors of prys</l>
+            <l>Some on palfray / and some on stede</l>
+            <l>And some stronge on fote yede</l>
+            <l>Whan they were all redy dyght</l>
+            <l>To se them it was a semely syght</l>
+            <l>There was many a stoute man &amp; wyght</l>
+            <l>with helme on hede and baner bryght</l>
+            <l>With helme on hede and bryght baner</l>
+            <l>That sayd that to Vortyger</l>
+            <l>I rede we parte our hoost in thre</l>
+            <l>In the best maner that may be</l>
+            <l>The kynge of denmarke w<seg rend="sup">t</seg> grete pryde</l>
+            <l>Brought his hoost by euery syde</l>
+            <l>Vortyger withouten fayll</l>
+            <l>Gaue them there stronge batayll</l>
+            <l>Swerdes were drawen &amp; arowes shotte</l>
+            <l>And many a quarell thrughe the throtte</l>
+            <l>Shaftes were broken &amp; helmes browne</l>
+            <l>And slayne was many a bolde barowne</l>
+            <l>But englysshe folke the soth to say</l>
+            <pb facs="tcp:868:6"/>
+            <l>Had the maystry that day</l>
+            <l>There was slayne and sent to hell pyne</l>
+            <l>Many a doughty sarasyne</l>
+            <l>Kynge angys meu that tyde</l>
+            <l>Were on the warre syde</l>
+            <l>And ranne away as they were wood</l>
+            <l>In to a castell stronge and good</l>
+            <l>That was made stronge and well</l>
+            <l>That it is called tyntagell</l>
+            <l>And his hoost fledde also</l>
+            <l>In to a castell they escaped tho</l>
+            <l>Vortyger with all his route</l>
+            <l>Beset kynge angys all aboute</l>
+            <l>But the castell that angys in</l>
+            <l>There myght it no man wynne</l>
+            <l>Whan he had hym belayne</l>
+            <l>Kynge angys sent hym to sayne</l>
+            <l>yf he in pease passe moost</l>
+            <l>He wolde take all his hoost</l>
+            <l>And wende home to his countre</l>
+            <l>And neuer more after that day</l>
+            <l>Wolde he passe the se stronde</l>
+            <l>For to warre on Englonde</l>
+            <l>Whan they had sworne all and some</l>
+            <l>That they sholde in englonde neuer come</l>
+            <l>Kynge Vortyger by his counseyll</l>
+            <l>Lete them passe hole and all</l>
+            <l>Tho wente the kynge to the se</l>
+            <l>And saylled forth to his countre</l>
+            <l>Tho Vortyger toke all his hoost</l>
+            <l>And went home with grete boost</l>
+            <l>And helde feest many a day</l>
+            <l>With grete delyte and moche play</l>
+            <pb facs="tcp:868:7"/>
+            <l>Whan the feest was all holde</l>
+            <l>The .xii. barons that I of tolde</l>
+            <l>They that slewe Moyn theyr kynge</l>
+            <l>Bethought them on a wonder thynge</l>
+            <l>That they wolde wende Vortyger to</l>
+            <l>To aske grace and he so do</l>
+            <l>Kynge Vortyger answered agayne</l>
+            <l>With eyger mode and gan to sayne</l>
+            <l>By the lawe that god made</l>
+            <l>ye shall haue that ye bade</l>
+            <l>ye be traytours wycked and stronge</l>
+            <l>And haue slayne your kynge w<seg rend="sup">t</seg> wronge</l>
+            <l>And yf I may so mote I the</l>
+            <l>So shall ye not serue me</l>
+            <l>For ye haue wrought ayenst the lawe</l>
+            <l>ye shall be hanged and drawe</l>
+            <l>He toke horses well skete</l>
+            <l>And dyde them tay by the fete</l>
+            <l>He bad them drawe on the pauement</l>
+            <l>And after not longe verament</l>
+            <l>Many an erle and baron then</l>
+            <l>That were of the barons kyn</l>
+            <l>On Vortyger they ranne anone</l>
+            <l>And so they were his dedely fone</l>
+            <l>And harde with hym they gan to fyght</l>
+            <l>Hym to slee they dyde theyr myght</l>
+            <l>As Vortyger with mayne and myght</l>
+            <l>He and all his hoost agayne</l>
+            <l>Many an arowe there was shotte</l>
+            <l>That tourned men to lytell note</l>
+            <l>Many a man loste his herte blode</l>
+            <l>And many the ball in the hode</l>
+            <l>That Vortyger withouten lay</l>
+            <pb facs="tcp:868:7"/>
+            <l>Vnneth scaped with lyfe awaye</l>
+            <l>Erles and barons of englonde</l>
+            <l>Sente faste aboute there sonde</l>
+            <l>To all theyr frendes frenthe and couthe</l>
+            <l>Est and west northe and southe</l>
+            <l>And tolde them all the sothe as tyte</l>
+            <l>That Vortyger with grete despyte</l>
+            <l>Had with treason and with wronge</l>
+            <l>Theyr kynred to drawe and honge</l>
+            <l>well wrothe was tho many a man</l>
+            <l>And to gyder they swore than</l>
+            <l>That they wolde neuer be glad</l>
+            <l>Tyll they hym auenged had</l>
+            <l>Euery man other bysought</l>
+            <l>To gyue hym strokes yf they mought</l>
+            <l>Many a erle and many a knyght</l>
+            <l>That eygre was and fell in fyght</l>
+            <l>That warreth ayenst Vortyger</l>
+            <l>Many a moneth of the yere</l>
+            <l>Many a lady gente and fre</l>
+            <l>Lost her lorde and her meyne</l>
+            <l>The warre began to laste longe</l>
+            <l>For the barons were so stronge</l>
+            <l>That Vortyger toke good cure</l>
+            <l>That he ne myght ayenst them dure</l>
+            <l>For theyr folke wexed ay</l>
+            <l>And his folke lessed euery day</l>
+            <l>Messengers anone he toke</l>
+            <l>And made them swere on a boke</l>
+            <l>That they sholde on his errandes gone</l>
+            <l>And bewrey hym to none</l>
+            <l>And sente hym ouer the se ywys</l>
+            <l>In to denmarke to kynge angys</l>
+            <pb facs="tcp:868:8"/>
+            <l>And bad hym come and helpe at nede</l>
+            <l>with all his folke that he myght lede</l>
+            <l>Agayne his fomen that wolde hym slee</l>
+            <l>And he sholde haue halfe his fee</l>
+            <l>Than was the kynge blythe</l>
+            <l>And sent messagers also swythe</l>
+            <l>To duke erle baron and knyght</l>
+            <l>All tho that wepen myght bere</l>
+            <l>In to shyp they gan dryue</l>
+            <l>And ouer these they came bylyue</l>
+            <l>And came in to this londe with hym</l>
+            <l>Many a sarasyn stoute and grym</l>
+            <l>whan they came to Vortyger</l>
+            <l>He welcomed them with glad chere</l>
+            <l>And seased there in to his honde</l>
+            <l>Halfe the realme of englonde</l>
+            <l>And that he had or haue myght</l>
+            <l>And he wolde helpe hym to fyght</l>
+            <l>Whan theyr couenauntes were made faste</l>
+            <l>They dyde them dyght in haste</l>
+            <l>In to batayle for to wente</l>
+            <l>For the barons were come them hende</l>
+            <l>Besyde salysbury a lyght</l>
+            <l>There they dyde togyder fyght</l>
+            <l>There was soone layde a downe</l>
+            <l>Many a gentell company owne</l>
+            <l>Speres were broken and sheldes torne</l>
+            <l>And men were thrughe the sydes borne</l>
+            <l>Many a thousande in that stounde</l>
+            <l>Were felled and layde to the grounde</l>
+            <l>Many a man with woundes lay</l>
+            <l>A dolfull syght it was that day</l>
+            <l>Many a lady and damoysell</l>
+            <pb facs="tcp:868:8"/>
+            <l>Wepte that day with teres fell</l>
+            <l>Than Vortyger had ten</l>
+            <l>Ayenst one of the barons men</l>
+            <l>Wherfore they had no myght</l>
+            <l>Agayne them to holde fyght</l>
+            <l>All they were dyscomfyte that day</l>
+            <l>And with sorowe they flowen away</l>
+            <l>yet Vortyger wolde not spare</l>
+            <l>But hounted them as men dooth the hare</l>
+            <l>None other pease wolde he make</l>
+            <l>But all that he myght take</l>
+            <l>He dyde them drawe and hange</l>
+            <l>And certayne it was all wrange</l>
+            <l>Many a baron hende and fre</l>
+            <l>Wente out of his owne countre</l>
+            <l>Some ouer these wente</l>
+            <l>And dwelled there veramente</l>
+            <l>And many for drede and doute</l>
+            <l>In to other londes wente aboute</l>
+            <l>In grete sorowe and moche wo</l>
+            <l>Twelue yere and many mo</l>
+            <l>For drede of syr Vortyger</l>
+            <l>They dwelled there many a yere</l>
+            <l>Whan they were gone out of this londe</l>
+            <l>Vortyger seased in his honde</l>
+            <l>Londes rentes and tenauntes bolde</l>
+            <l>wyfe and chylde he gan with holde</l>
+            <l>And thought the coūsayle of kynge angys</l>
+            <l>He gaue it to the sarasyns of prys</l>
+            <l>Kynge angys veramente</l>
+            <l>Hadde a doughter fayre and gente</l>
+            <l>That was a hethen sarasyn</l>
+            <l>And Vortyger for loue of hym</l>
+            <pb facs="tcp:868:9"/>
+            <l>Toke her anone to his wyfe</l>
+            <l>And was accorded all his lyfe</l>
+            <l>Soone he wedded her there</l>
+            <l>And menged theyr blode bothe in fere</l>
+            <l>So that the cure of Englonde</l>
+            <l>Was loste in the fendes honde</l>
+            <l>He helde no better goddes lawe</l>
+            <l>Than dooth an hounde and his felawe</l>
+            <l>Thus they lyued many a yere</l>
+         </div>
+         <div type="part">
+            <l>SO on a tyme syr Vortyger</l>
+            <l>Bythought him on y<seg rend="sup">e</seg> chyldren two</l>
+            <l>That out of englonde were fled <gap reason="illegible" resp="#murp" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </l>
+            <l>Also he by thought hym than</l>
+            <l>Of many another doughty man</l>
+            <l>That he made to go out of the lande</l>
+            <l>And I haue done them moche wronge</l>
+            <l>That it a sory happe</l>
+            <l>And bythought hym of after clappe</l>
+            <l>And thought yf euer they come agayne</l>
+            <l>That Englonde wolde of them be fayne</l>
+            <l>And with wreke on hym renne</l>
+            <l>He sayd he wolde beware of them</l>
+            <l>He sente anone for messengers</l>
+            <l>Ouer all his londe for carpenters</l>
+            <l>And for good masons also</l>
+            <l>The best that were in londe tho</l>
+            <l>Many an hondred there came anone</l>
+            <l>That coude werke in lyme and stone</l>
+            <l>Whan they were come in to the hall</l>
+            <l>The kynge sayd to them all</l>
+            <l>Herkeneth lordynges vnto me</l>
+            <l>As ye be bothe hende and fre</l>
+            <pb facs="tcp:868:9"/>
+            <l>In my herte I haue be thought</l>
+            <l>A fayre castell to haue wrought</l>
+            <l>That it be made of stronge werke</l>
+            <l>For to stonde styffe and sterke</l>
+            <l>Of stronge tymber lyme and stone</l>
+            <l>That a stronger in all the worlde be none</l>
+            <l>For my fone that ben on lyue</l>
+            <l>That I dyde out of this londe dryue</l>
+            <l>Yf that I haue euer nede</l>
+            <l>My lyfe therin that I may lede</l>
+            <l>That castell ye shall make mery</l>
+            <l>Vpon the playne of salysbury</l>
+            <l>And there ye shall it founde</l>
+            <l>Moche large and wyde on grounde</l>
+            <l>And do it as I you tell</l>
+            <l>That it be made trusty and well</l>
+            <l>And ye shall haue for your hyer</l>
+            <l>As moche as ye wyll desyre</l>
+            <l>For the Ioye that god is in</l>
+            <l>Fyll the cuppe and lete vs begyn</l>
+         </div>
+         <div type="part">
+            <l>ALl the werkemen wente tho</l>
+            <l>Fyue thousande and well mo</l>
+            <l>The hewe wood and caured stone</l>
+            <l>And layde the foundement anone</l>
+            <l>Some rebated and some dyde bere</l>
+            <l>And some began the werke to rere</l>
+            <l>The werkemen were lyght and slye</l>
+            <l>The werke began to ryse sone on hye</l>
+            <l>The fyrst day withouten doute</l>
+            <l>The werke arose kne hye aboute</l>
+            <l>Whan it was come to the nyght</l>
+            <pb facs="tcp:868:10"/>
+            <l>To theyr rest they wente ryght</l>
+            <l>And came agayne on the morowe</l>
+            <l>And founde thynge of moche sorowe</l>
+            <l>All the foundement in that stounde</l>
+            <l>Lay spred a brode on the grounde</l>
+            <l>And all to torne lyme and stone</l>
+            <l>Grete wonder they thought anone</l>
+            <l>No better rede coude they than</l>
+            <l>But a newe werke they began</l>
+            <l>And sped well for sothe to say</l>
+            <l>As they dyde the fyrst day</l>
+            <l>Whan the day was gone</l>
+            <l>To rest they wente euerychone</l>
+            <l>And came agayne on the morowe</l>
+            <l>And theyr werke done to moche sorowe</l>
+            <l>And all spredde here and there</l>
+            <l>And so it fared halfe a yere</l>
+            <l>All that they wrought on the day</l>
+            <l>On the morowe abrode it lay</l>
+            <l>Whan the kynge harde tell of this</l>
+            <l>Grete wonder he had ywys</l>
+            <l>And dyde aspye of yonge and elde</l>
+            <l>What it myght be that his werke felde</l>
+            <l>And why his werke myght not stonde</l>
+            <l>But there was none in all the londe</l>
+            <l>Hye ne lowe lewde ne clerke</l>
+            <l>That coude tell what felled his werke</l>
+            <l>As kynge Vortyger sat in his hall</l>
+            <l>And many a man hym withall</l>
+            <l>Syth the tyme that they were borne</l>
+            <l>Suche a wonder sawe they neuer beforne</l>
+            <l>As they of that werke founde</l>
+            <pb facs="tcp:868:10"/>
+            <l>That euery nyght was felled to grounde</l>
+            <l>The kynge sware he wolde not spare</l>
+            <l>Tyll he wyste how it ware</l>
+            <l>His messengers he sente hastely</l>
+            <l>Ouer all his londe for to espye</l>
+            <l>For wyse clerkes olde and yonge</l>
+            <l>That coude tell of suche a thynge</l>
+            <l>They sholde come to hym rathe</l>
+            <l>As they wolde theyr lyfe haue</l>
+            <l>Full soone the dyde the kynges sonde</l>
+            <l>And wente aboute in all the londe</l>
+            <l>Many wyse clerkes the sought</l>
+            <l>And all they were before hym brought</l>
+            <l>Kynge Vortyger spposed them all</l>
+            <l>There was none coude hym tell</l>
+            <l>Wherfore his werke was ouer caste</l>
+            <l>They coude not tell hym in haste</l>
+            <l>Maysters he lete take anone</l>
+            <l>The wysest of them euerychone</l>
+            <l>In a chambre he lete them do</l>
+            <l>That no man sholde come them to</l>
+            <l>The kynge sware parmafay</l>
+            <l>That they sholde not scape away</l>
+            <l>Tyll they wolde wherby knowe</l>
+            <l>Wherfore his werke was ouerthrowe</l>
+            <l>In to a chambre they were dyght</l>
+            <l>Nyne dayes and nyne nyght</l>
+            <l>They hadde no comforte of no thynge</l>
+            <l>Saue onely of mete and of drynke</l>
+            <l>So on the daye vrramente</l>
+            <l>They loked on the fyrmamente</l>
+            <l>On the walkyn they sawe a skye</l>
+            <pb facs="tcp:868:11"/>
+            <l>That shewed theym truly</l>
+            <l>That fyue wynter there before</l>
+            <l>A chylde in englonde there was bore</l>
+            <l>And begoten without mannes mon<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <l>Yf men myght haue suche one</l>
+            <l>And sle hym lyghtly than</l>
+            <l>Or he speke with ony man</l>
+            <l>And anoynte the werke with his blode</l>
+            <l>Than it shall be stronge and good</l>
+            <l>Thus the skye tolde thyem tho</l>
+            <l>And torned agayne there it came fro</l>
+            <l>Tho were the clerkes gladde &amp; blythe</l>
+            <l>And wente to the kynge also swythe</l>
+            <l>And sayd withouten leas</l>
+            <l>That a chaylde in Englonde was</l>
+            <l>Bygoten without mannes streme</l>
+            <l>The clerkes sayd all bydene</l>
+            <l>Lete seke after that chylde</l>
+            <l>Whether he be in towne or felde</l>
+            <l>Sle hym than hastely</l>
+            <l>And take the blode of his body</l>
+            <l>And anoynte the werke therwyth</l>
+            <l>And it shall stonde in peas and gryth</l>
+            <l>Blythe and glad was Vortyger</l>
+            <l>And sent twelue messengers</l>
+            <l>And dyde them parte in thre and thre</l>
+            <l>That none sholde with other be</l>
+            <l>And sente full soone his sonde</l>
+            <l>In foure quarters of englonde</l>
+            <l>And bad they sholde stynte nought</l>
+            <l>Tyll the chylde were to hym brought</l>
+            <l>The messengers forth wente</l>
+            <pb facs="tcp:868:11"/>
+            <l>And dyde his commaundemente</l>
+            <l>Tho syr Vortyger the bolde</l>
+            <l>Lete the clerkes be taken in holde</l>
+            <l>Tyll the messengers come agayne</l>
+            <l>For to wyte what they wolde sayne</l>
+            <l>And yf they made ony lesynge</l>
+            <l>He swore by Ihesu heuen kynge</l>
+            <l>There sholde no raunson for them gone</l>
+            <l>But they sholde be hanged euerychone</l>
+         </div>
+         <div type="part">
+            <l>NOwe late these clarkes bene</l>
+            <l>And his menssengers all by dene</l>
+            <l>That wente to seke the chylde so yonge</l>
+            <l>And ye shall here a wonder thynge</l>
+            <l>Yf ye wyll a stounde dwell</l>
+            <l>Of that chylde I wyll you tell</l>
+            <l>And how the thre messengers</l>
+            <l>Brought them to syr Vortygeres</l>
+            <l>And of what kynne he was</l>
+            <l>And what he hyght without lees</l>
+            <l>And ye shall all wyte</l>
+            <l>For what cause he was by gete</l>
+            <l>Dauyd the prophete and Moyses</l>
+            <l>Wytnessen and sayth in theyr verse</l>
+            <l>Whan god had made thorowe his myght</l>
+            <l>Heuen full of aungelles brynght</l>
+            <l>The Ioye that he made for man</l>
+            <l>There is no tongue that tell can</l>
+            <l>Tyll Lucyfer lost it thorowe his pryde</l>
+            <l>And all that helde with hym that tyde</l>
+            <l>Suche wreke god on hym dyde take</l>
+            <l>That they became fendes blacke</l>
+            <pb facs="tcp:868:12"/>
+            <l>As it is founde in holy wryte</l>
+            <l>They fell in hell pyte</l>
+            <l>Bothe dayes and eke nyght</l>
+            <l>They fyll out of heuen lyght</l>
+            <l>Also thycke by saynt Iohan</l>
+            <l>As motes in the sone beme</l>
+            <l>Whan they were falle out of heuen</l>
+            <l>God sayd hoo with mylde steuen</l>
+            <l>And heuen he lete dwell styll</l>
+            <l>As it was his owne wyll</l>
+            <l>Falle of the fendes that tyde</l>
+            <l>That fellen out of heuen for pryde</l>
+            <l>As wyse clerkes can telle</l>
+            <l>They felle not all in to helle</l>
+            <l>For Moyses sayth that holy man</l>
+            <l>In that stede they were than</l>
+            <l>Whan god almyghty heuen kynge</l>
+            <l>Sayd who without lesynge</l>
+            <l>Some dyde stynte in water &amp; some in londe</l>
+            <l>And some in the erthe dyde withstonde</l>
+            <l>For whan god had sayd who</l>
+            <l>They seased euer more</l>
+            <l>Than made god after his wyll</l>
+            <l>Heuen setes agayne to fyll</l>
+            <l>Whan he had made adam I wys</l>
+            <l>And brought hym to paradyse</l>
+            <l>Eue he made of his rybbe tho</l>
+            <l>And gaue them welle withouten wo</l>
+            <l>Ye haue harde here byfore</l>
+            <l>Why adam and Eue were forlore</l>
+            <l>Thorowe y<seg rend="sup">e</seg> fendes that made them to synne</l>
+            <l>They were lore and all theyr kynne</l>
+            <pb facs="tcp:868:12"/>
+            <l>God that is and euer shall bene</l>
+            <l>Lyght in to Mary mayden clene</l>
+            <l>And in her body toke flesshe and blode</l>
+            <l>And bought vs dere vpon the rode</l>
+            <l>Blyssed be he euery songe</l>
+            <l>And Mary his moder of whome he spronge</l>
+            <l>Thrughe hym mankynde his free</l>
+            <l>He bought them out of the fendes postee</l>
+            <l>Many of tho fendes that I of tolde</l>
+            <l>That fell in to hell with Lycyfer bolde</l>
+            <l>They that dwell in eyre</l>
+            <l>They be bothe so queynt and sly</l>
+            <l>On the erthe they toke theyr lyght</l>
+            <l>And of the wynde strength and myght</l>
+            <l>To make theyr body after man</l>
+            <l>Fayre and rody and geutell than</l>
+            <l>And lyght on erthe amonge mankynde</l>
+            <l>To tempte them to dedely synne</l>
+            <l>Well ye wyst here befere</l>
+            <l>That Ihesu was of mayden bore</l>
+            <l>And that he dyed vpon the rode</l>
+            <l>And bought vs all with his blode</l>
+            <l>Therof the fendes hadden myght &amp; honde</l>
+            <l>And sayd that a fende sholde fonde</l>
+            <l>To lye on erthe by a mayde mylde</l>
+            <l>And brynge on her suche a chylde</l>
+            <l>That sholde they sayd tho</l>
+            <l>All the worlde wyrche wo</l>
+            <l>And a comber also it befyll</l>
+            <l>As Ihesu brought to his wyll</l>
+            <l>Thus they thought this worlde to haue fyled</l>
+            <l>But at the laste they were bygyled</l>
+            <pb facs="tcp:868:13"/>
+            <l>For I shall tell you how it was</l>
+            <l>ye may here a wonder case</l>
+         </div>
+         <div type="part">
+            <l>GOod men ye shall vnderstonde</l>
+            <l>A ryche man there was in Englonde</l>
+            <l>And had a woman to his wyfe</l>
+            <l>In grete Ioye they ledde theyr lyfe</l>
+            <l>A sone the had and doughters thre</l>
+            <l>That fayre was vpon to se</l>
+            <l>Anone the fende that I of tolde</l>
+            <l>That dwelled in the erthe so bolde</l>
+            <l>In to the erthe he a lyght than</l>
+            <l>And tempted so that woman</l>
+            <l>That in her body he had myght</l>
+            <l>And brought her in to grete myschefe</l>
+            <l>And made her oft with eyger mode</l>
+            <l>Curse her chyldren as she were wode</l>
+            <l>So vpon a nyght late</l>
+            <l>Thorowe the fende with grete hate</l>
+            <l>With her sone chylde she began</l>
+            <l>And cursed hym that had by name</l>
+            <l>Tho she bad hym the fende bytake</l>
+            <l>With all the power that she myght make</l>
+            <l>Tho was the fende glad and blythe</l>
+            <l>And thought to do her shame as swythe</l>
+            <l>Whan it came to the nyght</l>
+            <l>In to the house the fende wente ryght</l>
+            <l>And strangled the chylde there it laye</l>
+            <l>His moder arose whan it was daye</l>
+            <l>And founde her sone dede on the morowe</l>
+            <l>She wente &amp; hanged her selfe for sorowe</l>
+            <l>Whan the good man wyst of this</l>
+            <pb facs="tcp:868:13"/>
+            <l>Whan the good man wyst of this</l>
+            <l>Also sywthe for shame ywys</l>
+            <l>Sodeynly he dyed tho</l>
+            <l>Without housyll and shryfte also</l>
+            <l>The folke as sone of this countre</l>
+            <l>Came thyder them to se</l>
+            <l>Whan they se them fare so</l>
+            <l>They sayd alas and wele and wo</l>
+            <l>For the good man and his wyfe</l>
+            <l>For they lyued so clene a lyfe</l>
+            <l>An hermyte that dwelled them bysyde</l>
+            <l>Came thyder to se them that tyde</l>
+            <l>Blasy the hermytes name was</l>
+            <l>Full ofte he sayd alas alas</l>
+            <l>That it was be fallen so</l>
+            <l>In his herte he was full wo</l>
+            <l>And sayd it was verament</l>
+            <l>Thorowe the fendes combrement</l>
+            <l>The thre doughters he founde alyue</l>
+            <l>That good man dyde them shryue</l>
+            <l>Of all that they coude mene</l>
+            <l>And then he ossoyled them clene</l>
+            <l>Fayre penaunce on them he layde</l>
+            <l>And for them to god he prayde</l>
+            <l>And bad them withall theyr myght</l>
+            <l>Serue god bothe daye and nyght</l>
+            <l>Whan he had taught them so</l>
+            <l>Home agayne he yede tho</l>
+            <l>Anone the doughters all in fere</l>
+            <l>Serued god with glad chere</l>
+            <l>And our lady saynt Mary also</l>
+            <l>Nyght and day they serued tho</l>
+            <pb facs="tcp:868:14"/>
+            <l>Ouer all the londe was the vsage</l>
+            <l>Yf a woman dyde ony outrage</l>
+            <l>But yf it were in wedlake</l>
+            <l>Anone ryght men sholde them take</l>
+            <l>And thorowe ryght dome withouten wene</l>
+            <l>And quycke they sholde doluen bene</l>
+            <l>But yf she were a lyght woman tolde</l>
+            <l>To all them that euer axe wolde</l>
+            <l>Tho the fende that was full of myght</l>
+            <l>That dwelled aboue in the lyght</l>
+            <l>In to the erthe he came as man</l>
+            <l>And wente to an olde woman</l>
+            <l>And byhyght her golde and fe</l>
+            <l>To go to the systeryn thre</l>
+            <l>The eldest doughter for to be chaunt</l>
+            <l>Some yonge man for to haunt</l>
+            <l>And yf she myght brynge her therto</l>
+            <l>He behyght her golde for euer mo</l>
+            <l>This olde quene was full glad</l>
+            <l>And dyde as the shrewe her bad</l>
+            <l>And wente to her systeryn thre</l>
+            <l>As sone as she myght them se</l>
+            <l>And made moche sorowe and care</l>
+            <l>For the systeryn that is fayre</l>
+            <l>To the eldest doughter she sayd</l>
+            <l>Alas / alas my fayre mayde</l>
+            <l>Thou hast bothe fayre fete and honde</l>
+            <l>And a gentell body by goddes sonde</l>
+            <l>With stronge myght and longe arme</l>
+            <l>Iwys it were moche harme</l>
+            <l>But thy body sholde assaye</l>
+            <l>With some yonge man for to playe</l>
+            <pb facs="tcp:868:14"/>
+            <l>That game is bothe good and swete</l>
+            <l>Fayre mayden I you behete</l>
+            <l>Nay certes sayd the mayden than</l>
+            <l>Yf I nowe toke ony man</l>
+            <l>But yf it were in weddynge</l>
+            <l>And ony wyst it olde or yinge</l>
+            <l>Ony man of this countre</l>
+            <l>All quycke I shall doluen be</l>
+            <l>Nay certes sayd the olde quene</l>
+            <l>Thou may it done without dene</l>
+            <l>Pryuely in thy bedde</l>
+            <l>Tyll some man come the to wedde</l>
+            <l>And therfore doughter doute the nought</l>
+            <l>For it shall neuer be further brought</l>
+            <l>And yf thou do after my rede</l>
+            <l>Thou dydest neuer a better dede</l>
+            <l>What thorowe the quene enchaunsement</l>
+            <l>And thorowe the fendes entesement</l>
+            <l>The eldest doughter that I of say</l>
+            <l>Lete a man with her playe</l>
+            <l>And whan she lyked best that game</l>
+            <l>It torned her to sorowe and shame</l>
+            <l>Anone she was forth I drawe</l>
+            <l>And of that dede she was by knowe</l>
+            <l>And for that werke dolue she was</l>
+            <l>Many one for her sayd alas</l>
+            <l>yet the fende in a wyle</l>
+            <l>The other syster dyde begyle</l>
+            <l>And made her loue a yonge man</l>
+            <l>Wherof all her sorowe began</l>
+            <l>Mannes loue she thought swete anone</l>
+            <l>And it was perceyued also soone</l>
+            <pb facs="tcp:868:15"/>
+            <l>Than she was taken and brought in honde</l>
+            <l>To her Iugement for to stonde</l>
+            <l>Her apposed the Iustyce tho</l>
+            <l>Why she had take on so</l>
+            <l>For she had wrought ayenst the lawe</l>
+            <l>Her Iustement she must haue</l>
+            <l>She answered as she was tought</l>
+            <l>And swore that she forsoke it nought</l>
+            <l>And sayd that she was a lyght woman</l>
+            <l>And commune for euery man</l>
+            <l>So she escaped with her lyfe away</l>
+            <l>After her dyde sewe all that day</l>
+            <l>Of harlottes o grete raas</l>
+            <l>To foule her body for that caas</l>
+            <l>Than was the yongest doughter wo</l>
+            <l>That nye her herte braste a two</l>
+            <l>For the fendes slewe her brother ywys</l>
+            <l>And her fader dyed amys</l>
+            <l>And her moder hanged her selfe</l>
+            <l>And her syster was by delfe</l>
+            <l>And her other syster an hore is</l>
+            <l>And accompanyed with harlottes ywys</l>
+            <l>Almoost for sorowe and for thought</l>
+            <l>In wanhope she was brought</l>
+            <l>To the hermyte she wente anone</l>
+            <l>That hyght Blasy an holy man</l>
+            <l>And tolde hym all the sothe before</l>
+            <l>How that her kynred was forlore</l>
+            <l>The hermyte had wonder grete</l>
+            <l>On goddes name he her bete</l>
+            <l>That she sholde haue god in mynde</l>
+            <l>And leue the waye of the fende</l>
+            <pb facs="tcp:868:15"/>
+            <l>And badde her forsake in all wyse</l>
+            <l>Pryde hate and couatyse</l>
+            <l>And also slouth and enuy</l>
+            <l>And specyally lechery</l>
+            <l>And glotony he bad her fle</l>
+            <l>And goddes seruaunt for to be</l>
+            <l>He bad her take kepe</l>
+            <l>That she sholde not go to sle</l>
+            <l>Neyther by daye ne by nyght</l>
+            <l>But that she blyssed her a ryght</l>
+            <l>And wyndowes and dores in that tyde</l>
+            <l>Be barred fast on euery syde</l>
+            <l>And marke theron with mylde woys</l>
+            <l>The sygne of the holy crosse</l>
+            <l>And that shall thy warraunte be</l>
+            <l>Byfore the fader in trynyte</l>
+            <l>And whan he had taught her so</l>
+            <l>Home agayne she wente tho</l>
+            <l>And serued god with herte gladde</l>
+            <l>And dyde as the hermyte her badde</l>
+            <l>Than the fende with grete enuy</l>
+            <l>Bygyled her with trechery</l>
+            <l>And brought her in shame &amp; sorowe I fere</l>
+            <l>And I shall you tell in what manere</l>
+         </div>
+         <div type="part">
+            <l>IT befell that she veramente</l>
+            <l>With her neyghboures to y<seg rend="sup">e</seg> ale wente</l>
+            <l>So longe she dranke and dyde amysse</l>
+            <l>That she was ryght dronke ywys</l>
+            <l>The bore her syster that I of tolde</l>
+            <l>She was stoute and swythe bolde</l>
+            <l>And chyded her syster as she were wood</l>
+            <l>And called her otherwyse than good</l>
+            <pb facs="tcp:868:16"/>
+            <l>And she was dronke the sothe to sayne</l>
+            <l>And myssayed her fast agayne</l>
+            <l>So longe they stryued without lees</l>
+            <l>Tyll she sterte vp in rees</l>
+            <l>And dyde to her grete outrage</l>
+            <l>And bette her in the vysage</l>
+            <l>She rente her clothes and tare her here</l>
+            <l>Ryght as she wolde were</l>
+            <l>In to her chamber the escaped tho</l>
+            <l>And barre the dore bytwene them two</l>
+            <l>And cryed out and neyghbours came</l>
+            <l>And as soone the strompet nome</l>
+            <l>And drewe her awaye anone</l>
+            <l>Amonge the harlottes euerychone</l>
+            <l>Whan she was so drawen away</l>
+            <l>The mayden in her chamberlay</l>
+            <l>And was medde and coude no good</l>
+            <l>But wepte all day as she were wood</l>
+            <l>And whan it was come to nyght</l>
+            <l>Vpon her bedde she fell downe ryght</l>
+            <l>As she was dronke and gladde</l>
+            <l>Fell a slepe and wexed madde</l>
+            <l>And forgete her dore vnblyssed ywys</l>
+            <l>Wyte ye well she dyde a mys</l>
+            <l>Than was the fende glad and blythe</l>
+            <l>And came to her also swythe</l>
+            <l>Come ouer all well he myght</l>
+            <l>To the mayden anone he wente</l>
+            <l>And wende crystendome to haue shende</l>
+            <l>And by her body he lay than</l>
+            <l>As it had be a nother man</l>
+            <l>With chylde he made her tho</l>
+            <pb facs="tcp:868:16"/>
+            <l>And wente agayne there he came fro</l>
+            <l>Whan the mayden was awaked</l>
+            <l>She groped &amp; founde her flesshe all naked</l>
+            <l>And as she groped with her honde</l>
+            <l>In preuy place anone she fonde</l>
+            <l>Wherby she wyst truely</l>
+            <l>That some man had lyen herby</l>
+            <l>Anone she sterte vp in haste</l>
+            <l>And founde her dore barred faste</l>
+            <l>Whan she founde that it was so</l>
+            <l>In her herte she was full wo</l>
+            <l>And thought it was some wycked thynge</l>
+            <l>That in sorowe wolde her brynge</l>
+            <l>She rente her clothes &amp; her here drowe</l>
+            <l>She wepte and made sorowe ynowe</l>
+            <l>All that nyght she made grete sorowe</l>
+            <l>And wente to the hermyte on y<seg rend="sup">e</seg> morowe</l>
+            <l>For to tell hym how it was</l>
+            <l>The hermyte sayd alas alas</l>
+            <l>And sayd it was y<seg rend="sup">e</seg> fendes encombraunce</l>
+            <l>For she had broken her penaunce</l>
+            <l>Good syr she sayd tho</l>
+            <l>What yf it be fallen so</l>
+            <l>And a chylde shall be gete on me</l>
+            <l>How sholde I excused be</l>
+            <l>Than shall I be take anone</l>
+            <l>And be doluen flesshe and bone</l>
+            <l>Ye certes sayd the good man</l>
+            <l>Lyue doughter sayd he than</l>
+            <l>And yf I the sothe may se</l>
+            <l>That a chylde be by goten on the</l>
+            <l>I shall the helpe withall my myght</l>
+            <pb facs="tcp:868:17"/>
+            <l>Tyll therof I haue a syght</l>
+            <l>Now go home doughter myne</l>
+            <l>And haue cryste in herte thyne</l>
+            <l>For he may yf his wyll be</l>
+            <l>Out of thy payne brynge the</l>
+            <l>Home she wente with sory chere</l>
+            <l>And serued god with herte good</l>
+            <l>And euery day after than</l>
+            <l>Her wombe faste grete began</l>
+            <l>Whan she myght it no lenger hyde</l>
+            <l>It was perceyued in that tyde</l>
+            <l>She was take and brought I wys</l>
+            <l>Byfore the kynges hye Iustyce</l>
+            <l>Her Iugement to vnderfonde</l>
+            <l>As it was the lawe of the londe</l>
+            <l>The hermyte herde than</l>
+            <l>That they had take that woman</l>
+            <l>And brought her to Iugement</l>
+            <l>Ryght anone theder they went</l>
+            <l>And thought than for all theyr stryfe</l>
+            <l>That he wolde saue her lyfe</l>
+            <l>Byfore the Iustyce men dyde her lede</l>
+            <l>And b<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> apposed her of that dede</l>
+            <l>And sayd damoysell by my treuth</l>
+            <l>On the I haue full grete reuth</l>
+            <l>For thou haste thy selfe shende</l>
+            <l>And wrought agaynst the lawe of londe</l>
+            <l>For thou hast a man take</l>
+            <l>That mayst thou not forsake</l>
+            <l>Thou haste wrought a wycked dede</l>
+            <l>For thou haste serued to be dede</l>
+            <l>She answered and sayd nay</l>
+            <pb facs="tcp:868:17"/>
+            <l>I wrought neuer ayenst the lay</l>
+            <l>By hym that dyed vpon the tre</l>
+            <l>There lay neuer man by me</l>
+            <l>Not flesshely with felonye</l>
+            <l>But the fende had to me grete enuye</l>
+            <l>The Iustyce answered anone</l>
+            <l>Damoysell thou lyest by saynt Ihone</l>
+            <l>Thy wordes ben bothe false and wylde</l>
+            <l>Men may se thou goost with chylde</l>
+            <l>In this worlde was neuer chylde bore</l>
+            <l>Without gendrynge of man byfore</l>
+            <l>Saue onely Ihesu that is full of myght</l>
+            <l>He was borne of a mayden bryght</l>
+            <l>How mayst thou forsake it than</l>
+            <l>That thou haddes neuer parte of man</l>
+            <l>Whan the sothe my selfe may se</l>
+            <l>That a chylde is bygoten on the</l>
+            <l>ye certes syr she sayd than</l>
+            <l>I go with chylde without man</l>
+            <l>By hym that shope this same day</l>
+            <l>Neuer yet man by me lay</l>
+            <l>Bus as I slepte vpon a nyght</l>
+            <l>By me lay a fulsom wyght</l>
+            <l>But I ne wote what it was</l>
+            <l>I must me holde to goddes grace</l>
+            <l>The Iustyce withouten fayle</l>
+            <l>Herde neuer suche a meruayle</l>
+            <l>This day there shall no man the delue</l>
+            <l>Tyll the haue Iuged wyues twelue</l>
+            <l>yf ony chylde may gete bene</l>
+            <l>Without helpe of mannes streme</l>
+            <l>And yf they saye it may be so</l>
+            <pb facs="tcp:868:18"/>
+            <l>Thou shalte passe quycte and go</l>
+            <l>For yf they say nay</l>
+            <l>Thou shalte be dolue this ylke day</l>
+            <l>And on twelue wyues they dyde her anone</l>
+            <l>And they answered euerychone</l>
+            <l>No chylde was borne of a mayde</l>
+            <l>But Ihesu alone they sayd</l>
+            <l>Without mannes mone for sothe</l>
+            <l>Therto they swore all theyr othe</l>
+            <l>Blasy the hermyte sterte vp than</l>
+            <l>And to the Iustyce he spake than</l>
+            <l>Syr Iustyce he sayd than</l>
+            <l>Speke with me a worde or two</l>
+            <l>She hath tolde me her lyfe euerydele</l>
+            <l>And certes I may beleue her well</l>
+            <l>And ye wyll her nought</l>
+            <l>But by hym y<seg rend="sup">t</seg> all this worlde hath wrought</l>
+            <l>I haue her teched to the lawe</l>
+            <l>To me she was neuer by knowe</l>
+            <l>That ony man with worde or dede</l>
+            <l>Touched her body with euyll rede</l>
+            <l>But yet it is founde so to day</l>
+            <l>That she hath wrought ayenst the lay</l>
+            <l>Thoughe she hath serued to be spylte</l>
+            <l>The chylde in her wombe hath no gylte</l>
+            <l>And therfore syr by my rede</l>
+            <l>Thou shalte not do her yet to dede</l>
+            <l>Do her in warde and kepe byfore</l>
+            <l>Tyll the tyme the chylde be bore</l>
+            <l>And than he sayd god wote</l>
+            <l>Another halfe yere she mote</l>
+            <l>Keke her chylde her selfe</l>
+            <pb facs="tcp:868:18"/>
+            <l>And afterwarde ye may her delue</l>
+            <l>Perauenture he sayd than</l>
+            <l>The chylde may be a full good man</l>
+            <l>Than answered the hye Iustyce</l>
+            <l>Hermyte he sayd thy wordes be wyse</l>
+            <l>After the do nowe I wyll</l>
+            <l>To day there shall no man her spyll</l>
+            <l>He commaunded his men euerychone</l>
+            <l>For to lede her in to a towre of stone</l>
+            <l>And that no man sholde with her go</l>
+            <l>But a mydwyfe and no mo</l>
+            <l>Into a towre men dyde her lede</l>
+            <l>Alone without felawes rede</l>
+            <l>Saue onely an olde mydwyfe</l>
+            <l>That myght saue the chyldes lyfe</l>
+            <l>The toure was so stronge and hye</l>
+            <l>That no man myght come them nye</l>
+            <l>In the wyndowe there was made tho</l>
+            <l>An hoke and a corde teyed therto</l>
+            <l>For to drawe vp therwith all thynge</l>
+            <l>Fyre and water mete and drynke</l>
+            <l>And whan the tyme of her was come</l>
+            <l>She had borne a seldome sene sone</l>
+            <l>Ryght fayre shape he had than</l>
+            <l>And all the shape that fell to man</l>
+            <l>But blacke he was withouten lees</l>
+            <l>And roughe he was as ony swyne</l>
+            <l>The mydwyfe anone ryght</l>
+            <l>Was a greued of that syght</l>
+            <l>For he was roughe of hyde</l>
+            <l>And also sone he thought tyde</l>
+            <l>That he was neuer bygete of man</l>
+            <pb facs="tcp:868:19"/>
+            <l>And full fayne she wolde than</l>
+            <l>In hell that he had he her fro</l>
+            <l>That neuer man hast sene hym more</l>
+            <l>The good man that hyght Blasy</l>
+            <l>Wyst full well truelly</l>
+            <l>What tyme the chylde sholde be borne</l>
+            <l>And to the towre he came on the morne</l>
+            <l>And called vp the wardes thre</l>
+            <l>And asked the mydwyfe of her chere</l>
+            <l>And she answered withouten lees</l>
+            <l>A knaues chyde borne there was</l>
+            <l>Fayre shape he had and ryght</l>
+            <l>But full vnsemely he was of syght</l>
+            <l>For all his hyde was rughe of here</l>
+            <l>Suche a chylde sawe he nener ere</l>
+            <l>Now take it me he sayd than</l>
+            <l>I shall make it a crysten man</l>
+            <l>And wheder it dye lyue or abyde</l>
+            <l>The better chaunce shall hym betyde</l>
+            <l>Full glad was the mydwyfe</l>
+            <l>And toke the chylde also by<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ue</l>
+            <l>And by a corde lete hym downe</l>
+            <l>And blasy gaue hym his blyssynge</l>
+            <l>And bare hym home with mylde mode</l>
+            <l>And baptysed hym in the ffode</l>
+            <l>And called hym to his crysten name</l>
+            <l>Marlyn to hyght in goddes name</l>
+            <l>Thorowe that name I you tell</l>
+            <l>All the fendes that were in hell</l>
+            <l>Were agreued full sore therfore</l>
+            <l>For theyr spouse was forlore</l>
+            <l>And he was crystened so</l>
+            <pb facs="tcp:868:19"/>
+            <l>Home agayne he brought hym tho</l>
+            <l>And on the corde he gan hym lede</l>
+            <l>And the mydwyfe drewe hym vp agayne</l>
+            <l>He bad her withouten blame</l>
+            <l>Call hym Marlyn by his name</l>
+            <l>Whan she had done as I you say</l>
+            <l>The hermyte wente home on his way</l>
+            <l>The mydwyfe on the morowe ryght</l>
+            <l>Bare hym to a fyre bryght</l>
+            <l>And warmed hym by the fyre tho</l>
+            <l>But of hym in her herte she was full wo</l>
+            <l>And as she warmed hym by the fyre</l>
+            <l>She byhelde hym of his foule chere</l>
+            <l>Bothe on fote and eke on honde</l>
+            <l>On the backe and on the wombe</l>
+            <l>And on sydes and hede for thy</l>
+            <l>And all aboute truely</l>
+            <l>Than she sayd arte thou Merlyn</l>
+            <l>Whens arte thou come and of what kynne</l>
+            <l>Who was thy fader by nyght or by day</l>
+            <l>That no man were ne may</l>
+            <l>It was grete reuth by heuen kynge</l>
+            <l>That for thy loue thou foule thynge</l>
+            <l>Thy moder shall be slawe with wo</l>
+            <l>Alas the stounde that it shall be so</l>
+            <l>For so god me helpe and saynt Iohan</l>
+            <l>A fouler wyght sawe I neuer none</l>
+            <l>Certes she sayd thou arte a foule wyght</l>
+            <l>Wolde Ihesu full of myght</l>
+            <l>And his moder with mylde steuen</l>
+            <l>And all the felawshyp of heuen</l>
+            <l>That thou were in the se</l>
+            <pb facs="tcp:868:20"/>
+            <l>Syth that thy moder myght go fre</l>
+            <l>And also quycke suche chere</l>
+            <l>As ony woman fer or nere</l>
+            <l>And whan he herde her spede so</l>
+            <l>He breyed vs his eyen tho</l>
+            <l>And wrothely began to loke</l>
+            <l>And his hede on her he shoke</l>
+            <l>With eyen grym as I you say</l>
+            <l>Aboute hye none of the day</l>
+            <l>He bygan to crye with grete dene</l>
+            <l>And sayd thou lyest thou olde quene</l>
+            <l>For nought that thou can tell</l>
+            <l>Neyther by daye ne by daye</l>
+            <l>For ought that ony man can saye</l>
+            <l>Neyther by northe ne by southe</l>
+            <l>Neyther for man frende ne couthe</l>
+            <l>Whyle that I may speke and gone</l>
+            <l>Maugre them euerychone</l>
+            <l>I shall saue her lyfe ywys</l>
+            <l>That thou shalte here and se ywys</l>
+            <l>Whan the mydwyfe herde that</l>
+            <l>Almoost she fell downe there she sate</l>
+            <l>And gan to quake as she were wood</l>
+            <l>And had leuer than ony good</l>
+            <l>That she had be fer awaye</l>
+            <l>And so had his moder there she laye</l>
+            <l>So sore they were of hym agast</l>
+            <l>That they began to blysse them fast</l>
+            <l>And coniured hym in goddes name</l>
+            <l>That he sholde do them no worldly shame</l>
+            <l>And fast on hym they gan to crye</l>
+            <l>The name of god and of Marye</l>
+            <pb facs="tcp:868:20"/>
+            <l>He sholde tell them what he were</l>
+            <l>And what aduenture brought hym there</l>
+            <l>With full moche wo and care</l>
+            <l>And afterwarde halfe a yere</l>
+            <l>As she helde hym by the fyre</l>
+            <l>To hym she spake with mornnynge chere</l>
+            <l>And rufully she gan to wepe</l>
+            <l>And sayd alas my sone swete</l>
+            <l>For thy loue withouten wene</l>
+            <l>All quycke I shall doluen bene</l>
+            <l>And answered and sayd nay</l>
+            <l>Dame ye lye by this day</l>
+            <l>There is no man ne no Iustyce</l>
+            <l>Shall deme you to the dethe in no wyse</l>
+            <l>In erthe thy body for to reke</l>
+            <l>The whyles that I may go or speke</l>
+            <l>Tho wexed his moder a gladde waman</l>
+            <l>Euery day after than</l>
+            <l>She gladded her herte with his tale</l>
+            <l>And lerned tho meruely fare</l>
+            <l>Whan they coude speke and gone</l>
+            <l>The Iustyce sayd to hym anone</l>
+            <l>And dyde commauūde his men than</l>
+            <l>To brynge tofore hym that woman</l>
+            <l>For to receyue her Iugement</l>
+            <l>And she was come in present</l>
+            <l>The Iustyce forgate it nought</l>
+            <l>That egrely he sayd his thought</l>
+            <l>He sayd anone by heuen quene</l>
+            <l>All quycke she sholde doluen bene</l>
+            <l>And she answered nother good ne harme</l>
+            <l>But helde chylde Marlyn in her arme</l>
+            <pb facs="tcp:868:21"/>
+            <l>That was but two yere olde</l>
+            <l>He answered wordes bolde</l>
+            <l>And sayd to hym with eyger mode</l>
+            <l>Syr Iustyce he sayd thou canst no good</l>
+            <l>For to deme my moder to deth</l>
+            <l>That thou ne wyst by her queth</l>
+            <l>Saue a chaunce that her befell</l>
+            <l>And therfore thou dydest not well</l>
+            <l>For euery man may wete by than</l>
+            <l>Agayne shame may no man</l>
+            <l>For thorowe shame and thorowe grace</l>
+            <l>In to this londe brought I was</l>
+            <l>And I was thorowe chaunce bygete</l>
+            <l>Euery man may well wete</l>
+            <l>That my moder ought nought</l>
+            <l>For my loue to deth be brought</l>
+            <l>Grete wonder had bothe olde and yonge</l>
+            <l>Of that yonge chyldes answerynge</l>
+            <l>And tho the Iuge wexed well wrothe</l>
+            <l>And by god he swore his othe</l>
+            <l>That quycke she sholde doluen be</l>
+            <l>Than sayd Merlyn so mote I the</l>
+            <l>Thou shalte neuer brynge her therto</l>
+            <l>For ought that euer thou canst do</l>
+            <l>For it shall not go as thou wylte</l>
+            <l>For she hath therof no gylte</l>
+            <l>And that I shall preue with good wyll</l>
+            <l>Maugre all tho that wyll her spyll</l>
+            <l>My fader that bygate me</l>
+            <l>Is a fende of grete pooste</l>
+            <l>And dwelleth in the eyre aboue the lyght</l>
+            <l>And tempteth folke bothe day and nyght</l>
+            <pb facs="tcp:868:21"/>
+            <l>Therfore to my moder he wente</l>
+            <l>And thought all crystendome to haue shente</l>
+            <l>And by gate me without lesynge</l>
+            <l>That she wyst therof no thynge</l>
+            <l>And she knewe not what it was</l>
+            <l>Forsothe I wyll preue her gyltles</l>
+            <l>That all the fendes wende thorowe me</l>
+            <l>For to haue destroyed crystente</l>
+            <l>They wende of me to haue a wycked fode</l>
+            <l>But god hath torned me to good</l>
+            <l>And nowe I am at goddes sonde</l>
+            <l>For to helpe all this londe</l>
+            <l>For thorowe my fader he sayd than</l>
+            <l>I thynges tell I can</l>
+            <l>That neuer was and nowe is</l>
+            <l>I can tell it nowe ywys</l>
+            <l>And all thynges that shall come</l>
+            <l>I can tell all and some</l>
+            <l>Therfore wyte thou well ywys</l>
+            <l>She was my moder and nowe is</l>
+            <l>But thou ne wyst by saynt Iohan</l>
+            <l>Who was thy fader than</l>
+            <l>Therfore I wyll proue moder thyne</l>
+            <l>Is better worthy to be doluen than myne</l>
+         </div>
+         <div type="part">
+            <l>NOw herken all to this stryfe</l>
+            <l>How Marlyn saued his moders lyfe</l>
+            <l>Grete wonder had many a man</l>
+            <l>How the chylde to speke began</l>
+            <l>Tho the Iustyce was full wo</l>
+            <l>And to Marlyn he spake tho</l>
+            <l>He sayd thou lyest thou foule congon</l>
+            <l>My fader was a bolde baron</l>
+            <pb facs="tcp:868:22"/>
+            <l>And my moder a lady fre</l>
+            <l>She is on lyue thou mayst her se</l>
+            <l>For I wene by our lady</l>
+            <l>That she dyde neuer suche a velony</l>
+            <l>Syr sayd Marlyn holde thy mouthe</l>
+            <l>Or I shall make it wyde I couthe</l>
+            <l>Lete some man after her gone</l>
+            <l>And I my selfe shall anone</l>
+            <l>Make her to by knowe</l>
+            <l>Syr Iustyce byfore the</l>
+            <l>The Iustyce byfore them all</l>
+            <l>Lete after his moder call</l>
+            <l>And sayd to Marlyn thou belaymye</l>
+            <l>Be so bolde or so hardye</l>
+            <l>To speke the worde that thou began</l>
+            <l>That thou saydest by that woman</l>
+            <l>Marlyn answered and sayd Iustyce</l>
+            <l>Iwys thy wordes be not wyse</l>
+            <l>For yf I tell the folkes all byfore</l>
+            <l>How thou were bygote and bore</l>
+            <l>Than sholde it sprynge abrode</l>
+            <l>Than hast thou lost thy maydenhode</l>
+            <l>And thy moder shall doluen be</l>
+            <l>And all is for the loue of the</l>
+            <l>Than the Iustyce vnderstonde</l>
+            <l>That Marlyn coude moche good</l>
+            <l>And brought hym in to a chambre than</l>
+            <l>Them selfe .iiii. and none other than</l>
+            <l>Than sayd the Iustyce to Marlyn</l>
+            <l>Nowe Marlyn chylde for crystes pyne</l>
+            <l>Tell me the sothe I pray the</l>
+            <l>What man it was that bygate me</l>
+            <pb facs="tcp:868:22"/>
+            <l>Syr he sayd by saynt Symon</l>
+            <l>It was the persone of the twone</l>
+            <l>He bygate the by saynt Iame</l>
+            <l>Vpon this lady this your dame</l>
+            <l>The lady sayd thou foule thynge</l>
+            <l>Iwys thou lyest a stronge lesynge</l>
+            <l>His fader was a bolde baron</l>
+            <l>And a man of grete renowne</l>
+            <l>And thou arte a mysbygote wretche</l>
+            <l>I praye to god the deuyll the fetche</l>
+            <l>For it were ryght and londes lawe</l>
+            <l>That thou were honge and drawe</l>
+            <l>Or in a wylde fyre for to be brente</l>
+            <l>For with wronge thou hast me shente</l>
+            <l>Dame he sayd holde the styll</l>
+            <l>For it were ryght and skyll</l>
+            <l>That thou sholdest quycke doluen bene</l>
+            <l>I wote ryght well withouten wene</l>
+            <l>And yf thou wylte it forsake</l>
+            <l>A taynt anone I shall the take</l>
+            <l>Sythe thou were in this worlde brought</l>
+            <l>All the werke that thou hast wrought</l>
+            <l>I can tell the euery worde</l>
+            <l>Better than thou by our lorde</l>
+            <l>Dame he sayd yf thou hast forgete</l>
+            <l>How thy sone was bygete</l>
+            <l>I shall tell the all the case</l>
+            <l>How that he bygoten was</l>
+            <l>Yf thou wylte forsake it than</l>
+            <l>I wyll tell all that I can</l>
+            <l>That thou shall be a shamed sore</l>
+            <l>Thou were better speke no more</l>
+            <pb facs="tcp:868:23"/>
+            <l>The lady was sore dysmayed</l>
+            <l>And Marlyn forthe his tale sayed</l>
+            <l>Dame he sayd verament</l>
+            <l>Whan thy lorde was to the cardynall sent</l>
+            <l>And home he came by nyght and not by day</l>
+            <l>The persone in thy bed lay</l>
+            <l>To thy chambre dore thy lorde gan go</l>
+            <l>Thou stertest vp and was full wo</l>
+            <l>Whan he dyde at the dore knocke</l>
+            <l>Thou stertest vp in thy smocke</l>
+            <l>Thou were aferde in that tyde</l>
+            <l>And dydest open a wyndowe wyde</l>
+            <l>The person thou awaye lete</l>
+            <l>And to a dore thou gan lepe</l>
+            <l>Dame sayd Marlyn that same nyght</l>
+            <l>He bygote thy sone that is knyght</l>
+            <l>Dame sayd he lye I nought</l>
+            <l>Nay by hym that me dere bought</l>
+            <l>Than was the Iustyce wrothe and wo</l>
+            <l>And to his moder he sayd tho</l>
+            <l>Moder he sayd how gooth this</l>
+            <l>Sone she sayd all a mys</l>
+            <l>Thoughe thou woldest hange me w<seg rend="sup">t</seg> a corde</l>
+            <l>The chyde lyeth euery worde</l>
+            <l>The Iustyce for shame wexed all rede</l>
+            <l>And on his moder he shoke his hede</l>
+            <l>And bad her soone wende home</l>
+            <l>Vnknowen that she there come</l>
+            <l>Tho sayd Marlyn in preuyte</l>
+            <l>Iustyce herken nowe to me</l>
+            <l>Thy moder shall nowe go home</l>
+            <l>Sende after her a grome</l>
+            <pb facs="tcp:868:23"/>
+            <l>That pryuely can her espye</l>
+            <l>For to the persone she wyll hye</l>
+            <l>And forsothe she wyll hym say</l>
+            <l>How that I dyde her bywray</l>
+            <l>Whan the persone hereth of this</l>
+            <l>Anone for sorowe and shame ywys</l>
+            <l>To a brydge wyll he fle</l>
+            <l>And loke that no man hym se</l>
+            <l>And in to the water skyppe he wyll</l>
+            <l>And so he wyll hymselfe spyll</l>
+            <l>And but it be as I the saye</l>
+            <l>Do me hange this same daye</l>
+            <l>The Iustyce without fayle</l>
+            <l>Dyde by Marlyns counseyle</l>
+            <l>And sende after a spye bolde</l>
+            <l>And founde all as Marlyn tolde</l>
+            <l>Than the Iustyce sate and lowe</l>
+            <l>Hym thought the chylde wyse I nowe</l>
+            <l>And there fore Marlyns sake</l>
+            <l>Hym and his moder he lete take</l>
+            <l>And all quyte lete them go fre</l>
+            <l>Byfore the folke of that countre</l>
+            <l>And sayd he wolde neuer after than</l>
+            <l>Iuge to dethe no woman</l>
+            <l>Now let we be all this stryfe</l>
+            <l>Thus saued Marlyn his moders lyfe</l>
+            <l>For saynt Thomas of caunterbury</l>
+            <l>Gyue vs drynke and make vs mery</l>
+            <l>Tho Marlyn was fyue yere olde</l>
+            <l>Of dedes he was sone bolde</l>
+            <l>His moder he dyde anone make</l>
+            <l>A grey habyte for to take</l>
+            <pb facs="tcp:868:24"/>
+            <l>And euer after verament</l>
+            <l>She serued god omnypotent</l>
+         </div>
+         <div type="part">
+            <l>NOw late we his moder be</l>
+            <l>And to our tale tourne we</l>
+            <l>And tell we of the messengeres</l>
+            <l>That went fro syr Vortygeres</l>
+            <l>For to seke Marlyn the bolde</l>
+            <l>For to haue his blode as I of tolde</l>
+            <l>So there befell suche a caas</l>
+            <l>That they came there as Marlyn was</l>
+            <l>On playnge there he dyde go</l>
+            <l>And with hym went chyldren mo</l>
+            <l>And as he played in that stede</l>
+            <l>One of the chyldren he mysdede</l>
+            <l>They chydde and cryed on hym tho</l>
+            <l>Thou foule shrewe go fro vs go</l>
+            <l>For thou arte a foule thynge bygote amysse</l>
+            <l>There wote no man who thy fader is</l>
+            <l>But some fende bygote the I wene</l>
+            <l>For to do vs sorowe and tene</l>
+            <l>The messagers rode faste by</l>
+            <l>And herde the chyldren on marlyn crye</l>
+            <l>And anone echone they thought</l>
+            <l>It was the chylde that they sought</l>
+            <l>And toke them to rede anone</l>
+            <l>That they wolde hym slone</l>
+            <l>Eche of them theyr swerdes out drowe</l>
+            <l>And marlyn behelde them and lowe</l>
+            <l>Chyldren he sayd ye wolde haue me fro you</l>
+            <l>Haue good day I go nowe</l>
+            <l>Here come the kynges messengeres</l>
+            <l>That hath me sought fer and neres</l>
+            <pb facs="tcp:868:24"/>
+            <l>For to haue my herte blode</l>
+            <l>Ryght nowe they thought in theyr mode</l>
+            <l>For to sle me this same daye</l>
+            <l>But by my truthe yf I may</l>
+            <l>Or that they parte fro me</l>
+            <l>Ryght good frendes shall we be</l>
+            <l>Marlyn anone to them ran</l>
+            <l>And gret them as he well can</l>
+            <l>And sayd welcome messengers</l>
+            <l>That come fro syr Vortygers</l>
+            <l>Lo I am here that ye haue sought</l>
+            <l>Me to sle is your thought</l>
+            <l>For to bere the kynge my blode</l>
+            <l>That neuer sholde do hym good</l>
+            <l>For he that tolde hym that tydynge</l>
+            <l>On me lyeth a foule lesynge</l>
+            <l>He sayd my blode with grete wronge</l>
+            <l>Sholde make his werke styffe and stronge</l>
+            <l>Though his werke therwith were wet</l>
+            <l>It sholde stand eneuer the bet</l>
+            <l>The messagers hadde echone</l>
+            <l>And spake to marlyn anone</l>
+            <l>How canst thou knowe suche preuyte</l>
+            <l>Tell vs sothe we praye the</l>
+            <l>Yes sayd marlyn I wote well</l>
+            <l>The kynges councell euerydele</l>
+            <l>And what is your pourpose for to do</l>
+            <l>And other aduentures many mo</l>
+            <l>Therfore sholde ye me not slo</l>
+            <l>But to courte I wyll with you go</l>
+            <l>I wyll saue you fro the dede</l>
+            <l>Hardely vpon my hede</l>
+            <l>And before the kynge yplyght</l>
+            <pb facs="tcp:868:25"/>
+            <l>I shall tell the sothe a ryght</l>
+            <l>Why that his castell wyll not stonde</l>
+            <l>And afterwarde I shall fonde</l>
+            <l>To make the clerkes false echone</l>
+            <l>That hath demed me to be slone</l>
+            <l>Tho sayd the messagers rathe</l>
+            <l>To sle the it were grete scathe</l>
+            <l>For thy wordes be good and hende</l>
+            <l>To courte with vs thou shalte wende</l>
+            <l>Tell vs what is thy name</l>
+            <l>And what woman is thy dame</l>
+            <l>That we may haue veray tokenynge</l>
+            <l>To answere at home byfore our kynge</l>
+            <l>Marlyn led them forth a grete pace</l>
+            <l>Tyll he came there his moder was</l>
+            <l>And he them tolde his moder byfore</l>
+            <l>All how he was bygote and bore</l>
+            <l>And thorowe his wysdome and his rede</l>
+            <l>He saued her fro the dede</l>
+            <l>The messengers that I of tell</l>
+            <l>That same nyght he made them to dwell</l>
+            <l>On the morowe whan it was day</l>
+            <l>They toke they leue and wente theyr waye</l>
+            <l>And set Marlyn in that tyde</l>
+            <l>Vpon an horse by theyr syde</l>
+            <l>And wente forth all I fere</l>
+            <l>Towarde kynge Vortygere</l>
+            <l>They came to a towne as I you say</l>
+            <l>Ryght vpon a market day</l>
+            <l>So that Marlyn as I you say</l>
+            <l>Sawe a man shone bye</l>
+            <l>A grete lawghter vp he nome</l>
+            <pb facs="tcp:868:25"/>
+            <l>The messengeres to hym come</l>
+            <l>And full fayre asked hym tho</l>
+            <l>Why he loughe faste so</l>
+            <l>He answered and sayd se ye nought</l>
+            <l>Yonder a man that shone hath bought</l>
+            <l>And stronge leder them to cloute</l>
+            <l>And grees to grese them all aboute</l>
+            <l>He weneth to lyue and them to tere</l>
+            <l>But by my trouth I dare well swere</l>
+            <l>His wretched lyfe shall be lore</l>
+            <l>Or he hath gone a myle or more</l>
+            <l>The messengers that same tyde</l>
+            <l>After a man they gan ryde</l>
+            <l>And or they had a forlonge gone</l>
+            <l>They founde hym dede as ony stone</l>
+            <l>In that towne they bode all nyght</l>
+            <l>On the morowe whan it was lyght</l>
+            <l>They dressed theyr hors &amp; made them yare</l>
+            <l>And on theyr waye they gan to fare</l>
+            <l>And as they rode in theyr Iourney</l>
+            <l>Thorowe a towne of that countrey</l>
+            <l>They came by a chirche yerde</l>
+            <l>And mette a corps that sholde be buryed</l>
+            <l>Many a man therwith gan gone</l>
+            <l>Marlyn behelde them euerychone</l>
+            <l>And his brydell he withdrowe</l>
+            <l>And a grete laughter he lowe</l>
+            <l>The messengers rode hym to</l>
+            <l>And asked hym why he loughe so</l>
+            <l>So loude and so wonder shyll</l>
+            <l>Than sayd Marlyn by goddes wyll</l>
+            <l>yf ye wyst what it were</l>
+            <pb facs="tcp:868:26"/>
+            <l>Ye wolde laughe also smere</l>
+            <l>Amonge these folke he sayd than</l>
+            <l>I se yonder a sory man</l>
+            <l>That for sorowe dooth wepe</l>
+            <l>That for Ioy ought to kyp and lepe</l>
+            <l>Another I se amonge them synge</l>
+            <l>That ought for to sorowe his handes to wrynge</l>
+            <l>I shall tell you why</l>
+            <l>That ye shall haue good rybaudrye</l>
+            <l>The corps is dede he sayd and colde</l>
+            <l>Whiche was a knaues chylde of .x. yere olde</l>
+            <l>The same preest he sayd tho</l>
+            <l>That gooth byfore and syngeth so</l>
+            <l>He it was that hym bygat</l>
+            <l>Sory he may be for that</l>
+            <l>He ought to wrynge his handes sore</l>
+            <l>And for his synnes care the more</l>
+            <l>And he syngeth and maketh blysse</l>
+            <l>As it hadde neuer be his</l>
+            <l>And se the sory husbonde</l>
+            <l>He weheth and wryngeth his honde</l>
+            <l>He ought not his handes to wrynge</l>
+            <l>He ought to skyppe and synge</l>
+            <l>For he is more than a fole</l>
+            <l>That for his enemye maketh dole</l>
+            <l>For he was the same fode</l>
+            <l>That sholde neuer haue done hym good</l>
+            <l>All the messengers rode anone</l>
+            <l>To the chyldes moder anone</l>
+            <l>And Marlyn within a lytell throwe</l>
+            <l>Made her all for to by knowe</l>
+            <l>Where thorowe she coude not say nay</l>
+            <pb facs="tcp:868:26"/>
+            <l>And prayed them her not to bywray</l>
+            <l>Tho were the messengers blythe</l>
+            <l>And on theyr waye they rode swythe</l>
+            <l>And as the rode on theyr waye</l>
+            <l>It byfell on the thyrde daye</l>
+            <l>Whan it was at hye pryme</l>
+            <l>Marlyn lought the thyrde tyme</l>
+            <l>The messengers asked hym there</l>
+            <l>Why he made so laughynge chere</l>
+            <l>Marlyn answered them ywys</l>
+            <l>Though I laughe no wonder it is</l>
+            <l>Syth the tyme that ye werebore</l>
+            <l>Herde ye neuer suche a me fruayle byore</l>
+            <l>I shall tell you without othe</l>
+            <l>That ye shall fynde truely sothe</l>
+            <l>Now herken bothe yonge and olde</l>
+            <l>What was y<seg rend="sup">e</seg> meruayle that marlyn tolde</l>
+            <l>Than sayd Marlyn lysten nowe</l>
+            <l>I shall tell you why I lowe</l>
+            <l>This day he sayd by my treuthe</l>
+            <l>In the kynges courte is grete reuthe</l>
+            <l>Of the kynges chamberlayne</l>
+            <l>All thorowe the quene the sothe to sayne</l>
+            <l>She hath made a lesynge stronge</l>
+            <l>Men do her to dethe with wronge</l>
+            <l>The chamberlayne is a woman</l>
+            <l>And gooth in clothes as a man</l>
+            <l>And for she is fayre &amp; bryght of hewe</l>
+            <l>The false quene that is vntrewe</l>
+            <l>She thought well that she was a man</l>
+            <l>And thought anone she began</l>
+            <l>To haue her to herlemman derne</l>
+            <pb facs="tcp:868:27"/>
+            <l>The chamberlayne gan her warne</l>
+            <l>Nedes she must that game forsake</l>
+            <l>For she myght her to lemman take</l>
+            <l>Ne she myght make her no comforte</l>
+            <l>For her takyll was so shorte</l>
+            <l>And there the quene was a foule</l>
+            <l>For had she wyst of her tole</l>
+            <l>How shorte it was wrought</l>
+            <l>She wolde haue desyred her nought</l>
+            <l>Whan the quene her gan yerne</l>
+            <l>The chamberlayne her gan werne</l>
+            <l>The quene gan her dysmay</l>
+            <l>And thought she wolde her bywray</l>
+            <l>And knewe well she wolde her shende</l>
+            <l>And to her lorde she gan wende</l>
+            <l>And complayned to the kynge</l>
+            <l>And made on her a grete lesynge</l>
+            <l>And sayd that his chamberlayne</l>
+            <l>With strengthe wolde her haue forlayne</l>
+            <l>And swore she wolde neuer glad be</l>
+            <l>Tyll he were hanged on a tre</l>
+            <l>That were to dethe brought</l>
+            <l>The kynge faste she bysought</l>
+            <l>Than was the kynge wonder wrothe</l>
+            <l>And eygrely he swore his othe</l>
+            <l>That she wolde be drawe and honge</l>
+            <l>But certes it were all with wronge</l>
+            <l>To sle a woman for a man</l>
+            <l>Thoughe she had mannes chothes on</l>
+            <l>Therfore I pray you for the loue of me</l>
+            <l>For goddes loue and saynt charyte</l>
+            <l>Go to the kynge blyue</l>
+            <pb facs="tcp:868:27"/>
+            <l>Also fast as ye may dryue</l>
+            <l>And saye vnto the kynge</l>
+            <l>The quene hath made a stronge lesynge</l>
+            <l>Vpon his chamberlayne with wrake</l>
+            <l>Therfore bed hym that he do her take</l>
+            <l>And loke all aboute than</l>
+            <l>He shall her fynde for a woman</l>
+            <l>A knyght there was stoute and fre</l>
+            <l>He lepte vpon a good destre</l>
+            <l>That he made no lettynge</l>
+            <l>Tyll he came byfore the kynge</l>
+            <l>And whan he came in to the hall</l>
+            <l>Downe on knees he gan fall</l>
+            <l>And sayd to kynge Vortyger</l>
+            <l>God the saue and thy power</l>
+            <l>Many a countre we haue wente</l>
+            <l>On thy message as thou vs sente</l>
+            <l>To seke a chylde selcouth monde</l>
+            <l>Thanked be god we haue hym founde</l>
+            <l>That chylde is fyue wynter olde</l>
+            <l>But ye sawe neuer none so bolde</l>
+            <l>Wyse he is by crystes pyne</l>
+            <l>And he hyght chylde merlyne</l>
+            <l>He can tell all thynge</l>
+            <l>That euer was without lesynge</l>
+            <l>And all thynhe that nowe is</l>
+            <l>He can tell nowe Iwys</l>
+            <l>Also he can tell ryght well</l>
+            <l>What destroyeth your castell</l>
+            <l>That it may not stande on the playne</l>
+            <l>And also of thy chamberlayne</l>
+            <l>That thou hast thought to drawe &amp; honge</l>
+            <pb facs="tcp:868:28"/>
+            <l>For certes it were all with wronge</l>
+            <l>To sle a woman for a man</l>
+            <l>Thoughe she haue mannes clothes on</l>
+            <l>Therfore he sende the sayne</l>
+            <l>Take anone thy chamberlayne</l>
+            <l>And of her bondes her vnbynde</l>
+            <l>And a woman thou shalte her fynde</l>
+            <l>But yf it be so with all lawe</l>
+            <l>Do her to hange and to drawe</l>
+            <l>Kynge Vortyger a wondred was</l>
+            <l>And all that herde of that cas</l>
+            <l>He dyde commaunde byfore them all</l>
+            <l>To brynge his chamberlayne in to the hall</l>
+            <l>She was serched in that stounde</l>
+            <l>For a woman they her founde</l>
+            <l>Full wrothe was kynge Vortyger</l>
+            <l>And asked of that messager</l>
+            <l>who tolde hym that she was a woman</l>
+            <l>Forsothe he sayd than</l>
+            <l>Chylde Merlyn gan vs say</l>
+            <l>As we rode by the way</l>
+            <l>For he can tell and lye nought.</l>
+            <l>Of all that euer was wrought.</l>
+            <l>Tho spake vortyger the blode</l>
+            <l>If that it be so as thou hast tolde</l>
+            <l>I shall gyue the londe and ploughe</l>
+            <l>And make you all ryche Inoughe</l>
+            <l>He dyde commaunde anone ryght</l>
+            <l>Duke / erle / baron / and knyght</l>
+            <l>To dresse them and make them yare</l>
+            <l>Wyth hym ayenst Merlyn for to fare</l>
+            <l>The kynge wolde no lenger abyde</l>
+            <pb facs="tcp:868:28"/>
+            <l>But lepte vpon his horse that tyde</l>
+            <l>And pryked forth out of the towne</l>
+            <l>And wyth hym many a bolde barowne</l>
+            <l>To speke wyth Merlyn the yonge</l>
+            <l>So glade he was of his comynge</l>
+            <l>Whan it was ayenst the nyght</l>
+            <l>The kynge with Merlyn mette ryght</l>
+            <l>And whan the kynge Merlyn mette</l>
+            <l>Hendly he hym grette</l>
+            <l>And the kynge welcomed the chylde</l>
+            <l>Wyth fayre wordes and wyth mylde</l>
+            <l>Home to courte togyder they went</l>
+            <l>Wyth full grete Ioye verament</l>
+            <l>And were well at ease that nyght</l>
+            <l>On the morowe whan it was day lyght</l>
+            <l>To the place they went bydene</l>
+            <l>That Merlyn sholde the castell sene</l>
+            <l>The kynge sayd to Merlyn than</l>
+            <l>Tell my chylde yf thou can</l>
+            <l>Why my castell in a stounde</l>
+            <l>Is euery nyght fall to the gronde</l>
+            <l>And why it myght stande nought</l>
+            <l>That of stronge werke is wrought</l>
+            <l>Tho merlyn answered the kynge</l>
+            <l>Syr thou shalte se a wonder thynge</l>
+            <l>Here in the gronde two yerdes depe</l>
+            <l>There is a water huge and grete</l>
+            <l>An vnder the water be stones two</l>
+            <l>Moche and fayre and brode also</l>
+            <l>Vnder the stones and vnder the molde</l>
+            <l>There lye two dragnos folde</l>
+            <l>That one is whyte as mylke reme</l>
+            <pb facs="tcp:868:29"/>
+            <l>That other is rede as fyers leme</l>
+            <l>Foule they be of syght bothe</l>
+            <l>And they togyder alwaye wrothe</l>
+            <l>And euery tyme whan it is nyght</l>
+            <l>Herde they gan togyder fyght</l>
+            <l>And thorowe strength of theyr blaste</l>
+            <l>All the werke is ouer caste</l>
+            <l>And yf the dragons were awaye</l>
+            <l>Thy werke myght stande nyght &amp; daye</l>
+            <l>And make thy werke all at thy wyll</l>
+            <l>For to stande bothe sterke and styll</l>
+            <l>Do nowe loke thou shalte se</l>
+            <l>Ryght as I tell the</l>
+            <l>Syr Vortyger commaunded anone</l>
+            <l>That his werkemen euerychone</l>
+            <l>Fyue thousande and .l. mo</l>
+            <l>He bad them loke yf it were so</l>
+            <l>Bynethe water in the grounde</l>
+            <l>Two grete stones there they founde</l>
+            <l>Many a man was redy there</l>
+            <l>The grete stones vp to rere</l>
+            <l>Whan the stones were vp drawen</l>
+            <l>Two dragons there they sawen</l>
+            <l>With theyr longe tayle double folde</l>
+            <l>They founde all as Marlyn tolde</l>
+            <l>That one was rede as fyere</l>
+            <l>With two eyen as a basyn clere</l>
+            <l>Pawes he had grete and longe</l>
+            <l>Fyre of out of his mouthe spronge</l>
+            <l>His tayle was grete and no thynge small</l>
+            <l>And his body boystous withall</l>
+            <l>His blaste myght no man tell</l>
+            <pb facs="tcp:868:29"/>
+            <l>He fared lyke the fende of hell</l>
+            <l>The stronge dragon that lay by hym</l>
+            <l>Of hym was a foule syght and grym</l>
+            <l>With grete pawes and sharpe hokes</l>
+            <l>With grete tuskes and sharpe crokes</l>
+            <l>With throte and mouthe moche wyde</l>
+            <l>The blaste of his mouthe in that tyde</l>
+            <l>All glowynge was his oude</l>
+            <l>His tongue brente as a fyre bronde</l>
+            <l>His tayle was ragged as a fende</l>
+            <l>And vpon his tayles ende</l>
+            <l>Was shape a grysely hede</l>
+            <l>For to fyght with the rede</l>
+            <l>Marlyn sayd sothe I plyght</l>
+            <l>They be bothe grysly of syght</l>
+            <l>Whan they dyde bothe aryse</l>
+            <l>Many men they made a gryse</l>
+            <l>The dradon rose out of her denne</l>
+            <l>Therof dred many men</l>
+            <l>All that were there in that tyde</l>
+            <l>Ne lenger durste they there abyde</l>
+            <l>Whan the dragons came to hepe</l>
+            <l>Eche man dyde on other lepe</l>
+            <l>And some for drede fell on sowughe</l>
+            <l>And Marlyn stode styll and lowghe</l>
+            <l>The rede dragon and the whyte</l>
+            <l>Herde togyder gan they smyte</l>
+            <l>With mouthe and pawes and with tayle</l>
+            <l>Bytwene them was stronge batayle</l>
+            <l>That all the erthe gan dynte tho</l>
+            <l>A lothely weder wexed tho</l>
+            <l>A stronge fyre they kyst anone</l>
+            <pb facs="tcp:868:30"/>
+            <l>That all the place therof shone</l>
+            <l>And spercles about also bryght</l>
+            <l>As ony fyre of thonder lyght</l>
+            <l>And so they fought the sothe to say</l>
+            <l>All the longe somers day</l>
+            <l>That they ne stynt of fygtynge</l>
+            <l>Tyll euensonge bell bygan to rynge</l>
+            <l>And in that tyme as I you tell</l>
+            <l>The rede dragon wexed so fell</l>
+            <l>That he droue the whyte dragon</l>
+            <l>Out of the place a grete feron</l>
+            <l>Tyll they came in to a valaye</l>
+            <l>And there they rystyd bothe two</l>
+            <l>The moūtenaūce of so longe whyle</l>
+            <l>That a man myght goo a myle</l>
+            <l>There the whyte conqueryd his myght</l>
+            <l>And vexed all stronge for to fyght</l>
+            <l>And egerly wythouten fayle</l>
+            <l>The rede dragon he gan assayle</l>
+            <l>And droue the rede dragon agayne</l>
+            <l>Tyll they came vpon the playne</l>
+            <l>And the whyte anone ryght</l>
+            <l>Caught the rede wyth strength and myght</l>
+            <l>And to the grounde he hym cast</l>
+            <l>And wyth the fyre of his blast</l>
+            <l>And all to pouder he brente the rede</l>
+            <l>That neuer was fonde of hym a glede</l>
+            <l>But dust on the grounde laye</l>
+            <l>Whan he had so do he flewe a waye</l>
+            <l>That neuer syth herde man</l>
+            <l>Where the whyte dragon went than</l>
+            <l>Tho sayd Merlyn the yonge</l>
+            <pb facs="tcp:868:30"/>
+            <l>To them all byfore the kynge</l>
+            <l>And sayd to them wordes bolde</l>
+            <l>Nowe syr the tale that I you tolde</l>
+            <l>It is sothe as thou mayst se</l>
+            <l>Therfore syr I pray the</l>
+            <l>The clerkes do byfore me brynge</l>
+            <l>That made on me suche a lesynge</l>
+            <l>I shall them aske the byfore</l>
+            <l>Why they wolde me haue forlore</l>
+            <l>Than answered Vortyger</l>
+            <l>And graunted hym without daunger</l>
+            <l>Anone he commaunded his men</l>
+            <l>To brynge forth the clerkes then</l>
+            <l>Whan they came byfore Marlyn</l>
+            <l>He apposed them of newe latyn</l>
+            <l>Wherby they knewe and vnderstode</l>
+            <l>That Marlyn coude moche good</l>
+            <l>Marlyn asked them in haste</l>
+            <l>Why they dyde lye on hym so faste</l>
+            <l>That thorowe the vertue of his blode</l>
+            <l>The kynges werke stronge and gode</l>
+            <l>The clerkes answered the chylde</l>
+            <l>With fayre wordes and with mylde</l>
+            <l>And sayd to hym sekerly</l>
+            <l>Vnder the welken we sawe a skye</l>
+            <l>That shewed vs all thy hegete</l>
+            <l>How thou were myrthe late</l>
+            <l>And thorowe thy blode y<seg rend="sup">e</seg> kynges castell</l>
+            <l>Sholde stonde fayre and well</l>
+            <l>And so we wende verament</l>
+            <l>Do with vs nowe thy talent</l>
+            <l>How sayd Marlyn tho</l>
+            <pb facs="tcp:868:31"/>
+            <l>He was a shrewe that taught you so</l>
+            <l>The skye that shewed you that</l>
+            <l>Was my fader that me bygat</l>
+            <l>For I serued hym neuer at wyll</l>
+            <l>Therfore he wolde my blode spyll</l>
+            <l>For he hath begyled you</l>
+            <l>Kynge Vortyger I pray the nowe</l>
+            <l>Graunte them lyfe for to lyue</l>
+            <l>And all myn anger I them forgyue</l>
+            <l>The kynge them graunted also swythe</l>
+            <l>Tho were the clerkes glad and blythe</l>
+            <l>The kynge went to his ynne</l>
+            <l>And wyth hym went chylde merlyn</l>
+            <l>Merlyn was wyth vortyger</l>
+            <l>To his counceyll all that yere / </l>
+            <l>Thorowe his counceyll and his rede</l>
+            <l>His castell was stronge made in dede</l>
+            <l>Whan his castell was ywrought</l>
+            <l>Erles and barons hym bysought</l>
+            <l>That he sholde wyte of Marlyn tho</l>
+            <l>Why the dragons fought so</l>
+            <l>It was some tokenynge they sayd all</l>
+            <l>Of some thynges that sholde fall</l>
+            <l>Marlyn was brought byfore the kynge</l>
+            <l>And he asked hym without lesynge</l>
+            <l>what the tokenynge myght bene</l>
+            <l>The fyghtynges of the dragons twene</l>
+            <l>Marlyn stode and made daungere</l>
+            <l>And tho spake syr Vortygere</l>
+            <l>And sayd Marlyn but thou me tell</l>
+            <l>Anone ryght I shall the quell</l>
+            <l>Than answered Marlyn I plyght</l>
+            <pb facs="tcp:868:31"/>
+            <l>With grete anger anone ryght</l>
+            <l>And sayd syr without othe</l>
+            <l>That worde shall neuer be sothe</l>
+            <l>Though thou take thy swerde in honde</l>
+            <l>Me to slo or dryue out of londe</l>
+            <l>Thou shalte fayle of thy fare</l>
+            <l>Though that thou it swere</l>
+            <l>For I warne the well Vortyger</l>
+            <l>I gyue ryght nought of thy daunger</l>
+            <l>But thou wylte fynde me a borowe</l>
+            <l>That thou shalte neuer do me sorowe</l>
+            <l>I shall tell the and not lye</l>
+            <l>What the dragons syngnyfye</l>
+            <l>But thou wylte so by our lorde</l>
+            <l>I wyll the tell neuer one worde</l>
+            <l>All the lordes and the kynge</l>
+            <l>Had grete wonder of that warnynge</l>
+            <l>Two barons the kynge fonde</l>
+            <l>Good erles of the londe</l>
+            <l>Soone they swore vpon a boke</l>
+            <l>That they sholde no harme hym loke</l>
+            <l>yf he wolde tell withouten wene</l>
+            <l>What that tokenynge myght bene</l>
+            <l>Tho spake Marlyn to the kynge</l>
+            <l>Herken now to my talkynge</l>
+            <l>The rede dragon that was so foule of syght</l>
+            <l>Betokeneth thy selfe and thy myght</l>
+            <l>And also thorowe thy false procurynge</l>
+            <l>Moyne was slayne the yonge kynge</l>
+            <l>The rede dragon made the whyte fle</l>
+            <l>Ferre downe in the valee</l>
+            <l>Bytokeneth the eyres that thou madest fle</l>
+            <pb facs="tcp:868:32"/>
+            <l>With wronge out of theyr countre</l>
+            <l>All the folke that with them helde</l>
+            <l>Bothe in towne and in felde</l>
+            <l>And dyde them moche sorowe</l>
+            <l>Bothe on euen and on morowe</l>
+            <l>The whyte dragon sygnyfye</l>
+            <l>That the ryght eyres haue enuye</l>
+            <l>To the that holdest all theyr londe</l>
+            <l>With wronge in to thy honde</l>
+            <l>The whyte dragon as I you say</l>
+            <l>Recouered his strength in the valay</l>
+            <l>And droue the rede agayne</l>
+            <l>Tyll he came in to the playne</l>
+            <l>And to the grounde he hym cast</l>
+            <l>And brente hym there with his blast</l>
+            <l>That bytokeneth the eyres so yonge</l>
+            <l>Whiche haue scoure fonde</l>
+            <l>And redy with many a knyght</l>
+            <l>Agayne the to holde fyght</l>
+            <l>And come in to Englonde</l>
+            <l>For to dryue the to shame and shonde</l>
+            <l>Into a castell they wyll the dryue</l>
+            <l>Bothe thy chyldren and thy wyue</l>
+            <l>And all that euer be with the thenne</l>
+            <l>In to the grounde they wyll them brenne</l>
+            <l>The redes tayle that was so longe</l>
+            <l>Betokeneth warre stronge</l>
+            <l>Whiche shall come after thenne</l>
+            <l>Of thyne owne wyues kynne</l>
+            <l>And the hethen kynge angys</l>
+            <l>He shall be slayne and lese the pryse</l>
+            <l>His kynred and thyne also</l>
+            <pb facs="tcp:868:32"/>
+            <l>Shall do Englonde moche wo</l>
+            <l>The hede of the whytes tayle</l>
+            <l>Bekoneth withouten fayle</l>
+            <l>That eyres bothe true and good</l>
+            <l>Shall destroye all the blood</l>
+            <l>And certes syr that is the tokenynge</l>
+            <l>Of the dragons stronge fyghtynge</l>
+            <l>That I the tell withouten othe</l>
+            <l>Thou shalte fynde it syker sothe</l>
+            <l>Styll stode syr Vortyger</l>
+            <l>And bote his lyppe with sory chere</l>
+            <l>And sayd to Marlyn anone</l>
+            <l>Thou must me tell by saynt Iohan</l>
+            <l>How I may best saue my lyfe</l>
+            <l>And my chyldren and my wyfe</l>
+            <l>Marlyn stode tho full styll</l>
+            <l>And answered hym with wordes yll</l>
+            <l>And sayd syr withouten wene</l>
+            <l>Thus it must nedes bene</l>
+            <l>Kynge Vortyger gan wexe wrothe</l>
+            <l>And by god he swore his othe</l>
+            <l>But he wolde tell hym some rede</l>
+            <l>Anone he wolde do hym to dede</l>
+            <l>And sterte vp &amp; wolde hym haue caught</l>
+            <l>But of hym was founde ryght nought</l>
+            <l>So lyghtely he was a waye</l>
+            <l>That in all the courte that daye</l>
+            <l>Hye ne lowe sawayne ne grome</l>
+            <l>Wyst where Marlyn was bycome</l>
+            <l>Whan he was escaped so</l>
+            <l>Kynge Vortyger was full wo</l>
+            <l>And in his herte he had care</l>
+            <pb facs="tcp:868:33"/>
+            <l>And so had all that with hym ware</l>
+            <l>And sought hym ouer all bydene</l>
+            <l>But they myght hym not sene</l>
+            <l>Marlyn wente hastely</l>
+            <l>To the hermyte Blasy</l>
+            <l>And tolde hym without lesynge</l>
+            <l>How he had serued the kynge</l>
+            <l>And tolde hym without wronge</l>
+            <l>The fyghtynge of the dragons stronge</l>
+            <l>Of the rede and of the whyte</l>
+            <l>A grete boke he dyde wryte</l>
+            <l>And sayd that the rede dragon</l>
+            <l>Betokeneth grete dystruccyon</l>
+            <l>Thorowe Vortygers kyn ywys</l>
+            <l>And thorowe the hethen kynge angys</l>
+            <l>And thorowe theyr kynge withouten wene</l>
+            <l>In Englonde shall it bene</l>
+            <l>Stronge warre and batayll kene</l>
+            <l>And many a man shall slayne bene</l>
+            <l>For as Marlyn tolde and sayd</l>
+            <l>In scrypture he it layde</l>
+            <l>Of all the aduentures I vnderstonde</l>
+            <l>That sholde be fall in Englonde</l>
+            <l>But derke it is and wonder thynge</l>
+            <l>That Marlyn made in his shewynge</l>
+            <l>But fewe men without wene</l>
+            <l>Coude vnderstonde what it myght bene</l>
+            <l>And for it was so derke wrought</l>
+            <l>Of that scrypture I tell nought</l>
+            <l>But yf ye a stounde dwell</l>
+            <l>Of other aduentures I wyll you tell</l>
+            <l>Of the yonge chyldren two</l>
+            <pb facs="tcp:868:33"/>
+            <l>Vther and pendragon also</l>
+            <l>I tell you as I vnderstonde</l>
+            <l>How they fledde out of Englonde</l>
+            <l>In to Gascoyne they were ledde</l>
+            <l>And with theyr frendes fastered &amp; fedde</l>
+            <l>Whan they were wexed of age</l>
+            <l>For to wynne thyn erytage</l>
+            <l>Therfore I wyll you sayne</l>
+            <l>How they came to londe agayne</l>
+            <l>With grete strength and grete power</l>
+            <l>And how they droue syr Vortyger</l>
+            <l>Vnto his castell thycke and stronge</l>
+            <l>For his treason and for his wronge</l>
+            <l>And how they brente hym flesshe &amp; bone</l>
+            <l>And how they dyde kynge angys slone</l>
+            <l>I shall tell you in what manere</l>
+            <l>Herken nowe and ye may here</l>
+         </div>
+         <div type="part">
+            <l>MEry tyme it is in may.</l>
+            <l>Than spryngeth y<seg rend="sup">e</seg> longe somers day</l>
+            <l>In grenewode foules syngynge</l>
+            <l>And in medes grasse spryngynge</l>
+            <l>And in chirches clerkes redynge</l>
+            <l>And damoyselles caroules ledynge</l>
+            <l>In that tyme as ye may here</l>
+            <l>Two barons came Vortygere</l>
+            <l>And sayd to hym my lorde the kynge</l>
+            <l>We haue brought the harde tydynge</l>
+            <l>Of Pendragon that is thy fo</l>
+            <l>And of his brother Vther also</l>
+            <l>That is come in to this londe</l>
+            <l>With many doughty man of honde</l>
+            <l>With helme on hede and baner bryght</l>
+            <pb facs="tcp:868:34"/>
+            <l>Full stronge they be and fresshe to fyght</l>
+            <l>And swere they wyll stynte nought</l>
+            <l>Tyll thou be to grounde brought</l>
+            <l>T<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey wyll no lenger abyde</l>
+            <l>Nyght and day they do ryde</l>
+            <l>And an wynchester they be almoost</l>
+            <l>Therfore sende aboute with grete boost</l>
+            <l>To all theyr frendes bothe ferre and nere</l>
+            <l>For to helpe the with theyr powere</l>
+            <l>Ayenst thy fomen for to spede</l>
+            <l>For thou haddes neuer more nede</l>
+            <l>Vo sterte syr Vortygere</l>
+            <l>And called anone his messenger</l>
+            <l>And to wynchester he sente in haste</l>
+            <l>And cōmaunded the burgeyse euerychone</l>
+            <l>That they sholde all be bowne</l>
+            <l>Ayenst Vther and Pendragon</l>
+            <l>And shyt the gates with so queynt gyn</l>
+            <l>That that they come not therin</l>
+            <l>And I wyll come permafay</l>
+            <l>To helpe them all that I may</l>
+            <l>And messengers he sente ywys</l>
+            <l>To the hethen kynge angys</l>
+            <l>And bad hym come without dwellynge</l>
+            <l>With all the folke that he myght brynge</l>
+            <l>For to helpe hym ayenst his fone</l>
+            <l>In londe that wayte hym to slone</l>
+            <l>Anone he sente his sonde</l>
+            <l>Ouer all aboute in Englonde</l>
+            <l>To duke / Erle / baron / and knyght</l>
+            <l>To come to hym anone ryght</l>
+            <l>To helpe hym in that tyde</l>
+            <pb facs="tcp:868:34"/>
+            <l>In felde his fomen to abyde</l>
+            <l>Whan kynge angys thyder dyde come</l>
+            <l>And his folke all and some</l>
+            <l>Duke / Erle / baron / and knyght</l>
+            <l>Armed redy for to fyght</l>
+            <l>They lepte to horse soone anone</l>
+            <l>And to wynchester they prycked echone</l>
+            <l>Yet or they myght come thore</l>
+            <l>Vther / and Pendragon was byfore</l>
+            <l>And were come wynchester nye</l>
+            <l>And soone rered theyr baner on hye</l>
+            <l>With so grete people without the towne</l>
+            <l>That they ouerspred bothe dale &amp; downe</l>
+            <l>The burgeyse that in the twone were</l>
+            <l>Loked out on that banere</l>
+            <l>Full fast theron they gan to beholde</l>
+            <l>And sawe a lybberde of rede golde</l>
+            <l>That rychely was dressed theron</l>
+            <l>That was theyr faders there byfore</l>
+            <l>That baner anone they knewe</l>
+            <l>And soone anone they gan rewe</l>
+            <l>The deth of good constantyne the kynge</l>
+            <l>And of Moyne that was slayne so yonge</l>
+            <l>And sayd that Vortyger with wronge</l>
+            <l>Had be theyr kynge to longe</l>
+            <l>He was a cursed lym and lyth</l>
+            <l>And all that euer helde hym with</l>
+            <l>The burgeyse sware togyder echone</l>
+            <l>Though they sholde be hanged anone</l>
+            <l>They wolde lere in to the towne</l>
+            <l>Bothe Vther and Pendragon</l>
+            <l>And sease in to theyr honde</l>
+            <pb facs="tcp:868:35"/>
+            <l>For they were ryght eyres of the londe</l>
+            <l>They set open the gates wyde</l>
+            <l>And Pendragon they lete in ryde</l>
+            <l>And his brother also</l>
+            <l>And all that came with hym tho</l>
+            <l>The burgeyse were glad and blythe</l>
+            <l>And therfore also swythe</l>
+            <l>They yelde to hym towne and toure</l>
+            <l>And dyde hym grete honoure</l>
+            <l>That euer wynchester after than</l>
+            <l>Grete fredome hym wan</l>
+            <l>Whan that Vortyger the fell</l>
+            <l>Of that tydynges herde tell</l>
+            <l>How Vther and Pendragowne</l>
+            <l>Were late in to the towne</l>
+            <l>For anger wexed wode nye</l>
+            <l>And sayd that they sholde abye</l>
+            <l>And ladde his hooste ryght faste</l>
+            <l>To wynchester in all haste</l>
+            <l>Whan Vther wyst and Pendragon</l>
+            <l>That Vortyger was thyder come</l>
+            <l>He commaunded all his men than</l>
+            <l>To horse and armes euery man</l>
+            <l>And opened the gates wyde</l>
+            <l>Oute of the gates they gan ryde</l>
+            <l>Whan they came out of the towne</l>
+            <l>Vp they rered a gonfawcowne</l>
+            <l>And dressed them withouten fayll</l>
+            <l>To gyue theyr enemyes batayll</l>
+            <l>And the Enlysshe folke I fere</l>
+            <l>That were with kynge Vortygere</l>
+            <l>Whan they myght that baner se</l>
+            <pb facs="tcp:868:35"/>
+            <l>That the kynges myght be</l>
+            <l>With Vortyger was many a knyght</l>
+            <l>That knewe that baner anone ryght</l>
+            <l>Well a thousande and mo were</l>
+            <l>That serued theyr fader byfore</l>
+            <l>And wyst well and vnderstode</l>
+            <l>That they were of the ryght blode</l>
+            <l>And torned theyr thought anone</l>
+            <l>Ayenst Vortyger euerychone</l>
+            <l>And sayd thou false traytoure</l>
+            <l>Thou shalte abye by our sauyoure</l>
+            <l>For thou hast be kynge with wronge</l>
+            <l>Thou shalte be drawe and honge</l>
+            <l>For grete anger anone ryght</l>
+            <l>With glayues and with swerdes bryght</l>
+            <l>They wolde haue slayne Vortyger</l>
+            <l>But all to lytell was theyr power</l>
+            <l>For euer ayenst one of tho</l>
+            <l>He had an hondred and well mo</l>
+            <l>Of wyght men and stronge</l>
+            <l>With glayues and swerdes longe</l>
+            <l>That were come all togyder</l>
+            <l>For to fyght they came thyder</l>
+            <l>Kynge Vortyger and kynge angys</l>
+            <l>For wreche were nye wood ywys</l>
+            <l>And commaunded all theyr route</l>
+            <l>To besette the knyghtes all aboute</l>
+            <l>And swore there sholde escape none</l>
+            <l>Of knyghtes that dyde ayenst them gone</l>
+            <l>Speres they brake and swerdes they drewe</l>
+            <l>Many a knyght there they slewe</l>
+            <l>But the knyghtes were full wyght</l>
+            <pb facs="tcp:868:36"/>
+            <l>And wente ayenst them for to fyght</l>
+            <l>Herde they gan ayenst them hewe</l>
+            <l>But alas there were to fewe</l>
+            <l>Thrughe that metynge and that stryfe</l>
+            <l>Well halfe an hondred loste theyr lyfe</l>
+            <l>There came a baron that was gente</l>
+            <l>That sayd they sholde all be shente</l>
+            <l>He prycked his stede a grete randon</l>
+            <l>Tyll he came to Vther and Pendragon</l>
+            <l>And sayd ryght heyres of this londe</l>
+            <l>To my tale ye vnderstonde</l>
+            <l>Many a knyght and baron fre</l>
+            <l>For loue of thy broder and the</l>
+            <l>With good wyll they be to you I wente</l>
+            <l>And therfore they be foule shente</l>
+            <l>Kynge Vortyger and kynge angys</l>
+            <l>With many a sarasyn of prys</l>
+            <l>Haue shente them in a stounde</l>
+            <l>Horse and man layde to grounde</l>
+            <l>Nowe be they shent for the loue of the</l>
+            <l>Helpe them nowe for charyte</l>
+            <l>It was no nede to byde them ryde</l>
+            <l>His folke spred on euery syde</l>
+            <l>Whan they were togyder met</l>
+            <l>Strokes there were well set</l>
+            <l>There was soone verament</l>
+            <l>Gyuen many sore dynt</l>
+            <l>Many a sarasyns hede anone</l>
+            <l>Flewe fro the necke bone</l>
+            <l>A grete nomber in that tyde</l>
+            <l>Were slayne on euery syde</l>
+            <l>But Vortyger without fayle</l>
+            <pb facs="tcp:868:36"/>
+            <l>Was ouercome in that batayle</l>
+            <l>Bothe he and all his</l>
+            <l>And so was kynge angys</l>
+            <l>They were all dryue so nye</l>
+            <l>That he and all his hoost dyde flye</l>
+            <l>In to his castell stronge and mery</l>
+            <l>Vpon the payne of salysbury</l>
+            <l>Kynge angys fledde as he were wood</l>
+            <l>In to a castell stronge and good</l>
+            <l>That was wrought of lyme and stone</l>
+            <l>Better in the londe was none</l>
+            <l>The name of that castell</l>
+            <l>Is called Tyntagell</l>
+            <l>Nowe lete we kynge angys there</l>
+            <l>And tell we forth of Vortyger</l>
+            <l>Pendragon and syr Vther</l>
+            <l>Prycked after Vortyger</l>
+            <l>Whan they to the castell come</l>
+            <l>Wylde fyre anone they nome</l>
+            <l>And caste it ouer the wall anone</l>
+            <l>And also sone as it was within</l>
+            <l>It gan to brenne as a fyre bronde</l>
+            <l>That no man myght it withstonde</l>
+            <l>Tyll Vortyger was brente chylde &amp; wyfe</l>
+            <l>And all that were within on lyfe</l>
+            <l>Beest and man with lyme and lede</l>
+            <l>Brenned downe withouten rede</l>
+            <l>That no thynge of them was founde</l>
+            <l>But dust that lay on the grounde</l>
+            <l>Whan Vortyger was so brente</l>
+            <l>Vther and pendragon togyder wente</l>
+            <l>For to seche kynge Angys</l>
+            <pb facs="tcp:868:37"/>
+            <l>There he lay on his castell of prys</l>
+            <l>Thyder he was flowen for doute</l>
+            <l>And Pendragon with all his route</l>
+            <l>Bysette hym nyght and day</l>
+            <l>That no man may scape away</l>
+            <l>But kynge angys in his castell</l>
+            <l>Was stored veray well</l>
+            <l>So well the castell was wrought</l>
+            <l>That no man it wynne mought</l>
+            <l>Fyue barons with Vther were</l>
+            <l>That had ben with Vortygere</l>
+            <l>And tolde Vther &amp; Pendragon before</l>
+            <l>How Marlyn was bygote and bore</l>
+            <l>And how he coude tell all thynge</l>
+            <l>That euer was without le synge</l>
+            <l>And all thynge that shall bene</l>
+            <l>He can tell without wene</l>
+            <l>And vortyger a wonder thynge</l>
+            <l>Of two dragons that lay folde</l>
+            <l>And how he sholde I brent be</l>
+            <l>Thorowe thy broder and thorowe the</l>
+            <l>How the kynge wolde hym haue nome</l>
+            <l>But he ne wyst where he was bycome</l>
+            <l>And sayd syr veramente</l>
+            <l>And yf he were now presente</l>
+            <l>Thorowe his counceyll thou sholdest anone</l>
+            <l>Kynge angys ouercome and slone</l>
+            <l>Pendragon was a wondred tho</l>
+            <l>And Vther his brother also</l>
+            <l>And sente anone knyghtes fyue</l>
+            <l>For to seche Marlyn blyue</l>
+            <l>And yf they fynde the chylde</l>
+            <pb facs="tcp:868:37"/>
+            <l>Pray hym with wordes mylde</l>
+            <l>For to speke with pendragon</l>
+            <l>And Vther in theyr pauylyon</l>
+            <l>Them to wysshe and to rede</l>
+            <l>And them to helpe in theyr nede</l>
+            <l>For to wynne that stronge holde</l>
+            <l>And he sholde haue that he wolde</l>
+            <l>Nowe be these messagers wente</l>
+            <l>To seche Marlyn with good entents</l>
+            <l>Wyde and syde they hym soughte</l>
+            <l>But they founde hym noughte</l>
+            <l>So on a day the messengeres</l>
+            <l>As they satte at theyr dyneres</l>
+            <l>In a towne of the west countre</l>
+            <l>With mete and drynke grete plente</l>
+            <l>An olde chorle there came ynne</l>
+            <l>With longe heres on his chynne</l>
+            <l>A staffe in his honde he had</l>
+            <l>And shone on his fete full bad</l>
+            <l>He began to coughe and grone thore</l>
+            <l>And layd he was an hongred sore</l>
+            <l>And bad them on the benche aboue</l>
+            <l>Gyue hym some mete for goddes loue</l>
+            <l>They hym answered without lesynge</l>
+            <l>He sholde neyther haue mete ne other thȳge</l>
+            <l>They swore by hym that Iudas solde</l>
+            <l>He was a stoute chorle and a bolde</l>
+            <l>And myght trauayle for his mete</l>
+            <l>Yf he with trouthe wolde it gete</l>
+            <l>They called hym fayter euerychone</l>
+            <l>And bad hym trusse faste and gone</l>
+            <l>And swore by y<seg rend="sup">e</seg> trouthe that god hym gaffe</l>
+            <pb facs="tcp:868:38"/>
+            <l>He sholde haue of his owne staffe</l>
+            <l>Thre stroses well I set</l>
+            <l>But he hyed hym oute the bet</l>
+            <l>Than answeeed the olde man</l>
+            <l>Felowes he sayd no chorle I am</l>
+            <l>I am an olde man of this worlde</l>
+            <l>And many wonders I haue herde</l>
+            <l>And ye but wretches of yonge blood</l>
+            <l>And knowe all but lytell good</l>
+            <l>And yf ye coude as ye ne can</l>
+            <l>Ye wolde scorne none olde man</l>
+            <l>As ye go in your prynces nede</l>
+            <l>For olde men myght you rede</l>
+            <l>For to fynde Marlyn the chylde</l>
+            <l>your prynce was bothe good &amp; wylde</l>
+            <l>To sende men that done oute rage</l>
+            <l>For to wende on his message</l>
+            <l>For Marlyn is of suche manere</l>
+            <l>Though he stode before you here</l>
+            <l>And spake to you as I do</l>
+            <l>ye sholde hym knowe neuer the mo</l>
+            <l>Thryes to daye ye haue hym met</l>
+            <l>And yet ye knowe hym neuer the bet</l>
+            <l>Therfore go home by my rede</l>
+            <l>To fynde hym shall ye not spede</l>
+            <l>Bydde your prynce take barons fyue</l>
+            <l>And go seche Marlyn blyue</l>
+            <l>And that Marlyn shall them abyde</l>
+            <l>On hye by the forest syde</l>
+            <l>And whan he had tolde this</l>
+            <l>He wente away anone ywys</l>
+            <l>There was none of them tho</l>
+            <pb facs="tcp:868:38"/>
+            <l>That wyst where he was go</l>
+            <l>The messagers were wondred all</l>
+            <l>And after hym they can to call</l>
+            <l>And ouer all they gan hym seche</l>
+            <l>But of hym herde they no speche</l>
+            <l>For in gest as it is tolde</l>
+            <l>The chorle that was there so bolde</l>
+            <l>That rebuked the messageres</l>
+            <l>As they satte at theyr dyners</l>
+            <l>It was chylde Marlyn the yonge</l>
+            <l>That made of them his scornynge</l>
+            <l>The messagers wente home anone</l>
+            <l>And tolde Vther and Pendragon</l>
+            <l>How a chorle had them tolde</l>
+            <l>And them scorned with worde bolde</l>
+            <l>And sayd how Marlyn the chylde</l>
+            <l>Was vp in the forest wylde</l>
+            <l>And bad them take barons fyue</l>
+            <l>For to seke merlyn blyue</l>
+            <l>And sayd Marlyn wolde abyde</l>
+            <l>On hye vnder the forest syde</l>
+            <l>Pendragon had wonder tho</l>
+            <l>And Vther his brother also</l>
+            <l>And wyll and talent fyne</l>
+            <l>For to speke with chylde Marlyn</l>
+            <l>He badde Vther his brothe gente</l>
+            <l>To theyr syege take theyr entente</l>
+            <l>That kynge angys scape not away</l>
+            <l>Neyther by nyght ne by day</l>
+            <l>Tyll they were on hym a wreke</l>
+            <l>And he wolde go with Marlyn to speke</l>
+            <l>Pendragon toke barons fyue</l>
+            <pb facs="tcp:868:39"/>
+            <l>And wente forth also blyue</l>
+            <l>For to speke with Marlyn the chylde</l>
+            <l>That was in the foreste wylde</l>
+            <l>Whan pendragon was out I wente</l>
+            <l>Marlyn anone to Vther wente</l>
+            <l>To hym he wente anone</l>
+            <l>For to warne hym of his fone</l>
+            <l>As it were a stoute garson</l>
+            <l>He came in to his pauylyon</l>
+            <l>And sayd Vther lysten to me</l>
+            <l>Of thy harme I warne the</l>
+            <l>I am crysten the sothe to saye</l>
+            <l>Therfore I warne the to daye</l>
+            <l>That the byhete kynge angys</l>
+            <l>With many a sarasyn of pryce</l>
+            <l>Shall come to the this same nyght</l>
+            <l>With many a man well ydyght</l>
+            <l>In thy fyrst slepe anone</l>
+            <l>He wyll wayte the to slone</l>
+            <l>For well wote without fayle</l>
+            <l>All the kynges counceyle</l>
+            <l>But of hym haue ye no doute</l>
+            <l>Do warne thyne hoost all aboute</l>
+            <l>That they ben armed very wele</l>
+            <l>Bothe in yron and in stele</l>
+            <l>And gader togyder all thyn hoost</l>
+            <l>And holde you styll without boost</l>
+            <l>Tyll he be amonge you come</l>
+            <l>For he wyll be y<seg rend="sup">e</seg> formest of that frome</l>
+            <l>That on thy pauylyon wyll renne</l>
+            <l>And loke that thou be redy then</l>
+            <l>And harde on hym that thou smyte</l>
+            <pb facs="tcp:868:39"/>
+            <l>And loke of thy swerde wyll byte</l>
+            <l>For thou shalte hym sle with thy honde</l>
+            <l>And wynne the pryce of this londe</l>
+            <l>Whan he had tolde all this case</l>
+            <l>No man wyst where he was</l>
+            <l>Vther had grete wonder the</l>
+            <l>For he was escaped so</l>
+            <l>And in his herte gan vnderstonde</l>
+            <l>That it was thrughe goddes sonde</l>
+            <l>And had hym warned of his fone</l>
+            <l>For he was lyghtely gone</l>
+            <l>Whan it was within the nyght</l>
+            <l>Kynge angys anone ryght</l>
+            <l>Dyde arme his men all preste</l>
+            <l>Thre thousande of the beste</l>
+            <l>And sayd how a spye hym tolde</l>
+            <l>How Pendragon the prynce bolde</l>
+            <l>In to the courte was I fare</l>
+            <l>And Vther was lefte there</l>
+            <l>Therfore he sayd with grete hete</l>
+            <l>On hym he wolde be a wreke</l>
+            <l>And swore by his god mahon</l>
+            <l>He wolde hym sle in his pauylyon</l>
+            <l>And whan he hath Vther slayne</l>
+            <l>In to his castell he wolde agayne</l>
+            <l>Whan they were redy dyght</l>
+            <l>Kynge angys anone ryght</l>
+            <l>Out of his castell he gan ryde</l>
+            <l>And thre thousande by his syde</l>
+            <l>And prycked forth with grete boost</l>
+            <l>Tyll he came to Vthers hoost</l>
+            <l>Whan he came there ryght</l>
+            <pb facs="tcp:868:40"/>
+            <l>There Vther his pauylyon pyght</l>
+            <l>Kynge angys was full felon</l>
+            <l>And gan hewe on his pauylyon</l>
+            <l>And thought to haue slayne hym therin</l>
+            <l>But he was begyled through Marlyn</l>
+            <l>For marlyn had on the morne</l>
+            <l>Warned Vther there byforne</l>
+            <l>How kynge angys had I thought</l>
+            <l>Therfore in his pauylyon was he nought</l>
+            <l>But Vther was redy there oute</l>
+            <l>With many men stronge and stoute</l>
+            <l>And Vther was a stronge man</l>
+            <l>To kynge angys anone he ranne</l>
+            <l>And gaue hym suche a stroke</l>
+            <l>That he flewe tayle ouer toppe</l>
+            <l>And toke hym by the hede anone</l>
+            <l>And smote it fro the necke bone</l>
+            <l>Whan the sarasyns that dyde see</l>
+            <l>Sone anone they gan flee</l>
+            <l>In to the castell all byde ne</l>
+            <l>And lete theyr lorde without bene</l>
+            <l>But or they myght come home agayne</l>
+            <l>Fyue hondred of them were slayne</l>
+            <l>Of the strongest that there wore</l>
+            <l>That came with theyr kynge byfore</l>
+            <l>Now lete we be of all this reason</l>
+            <l>And tourne we agayne to Pendragon</l>
+            <l>That was gone to the forest syde</l>
+            <l>To speke with Marlyn in that tyde</l>
+            <l>The fyrst tyme that he sawe marlyn</l>
+            <l>He was an herde and kepte swyne</l>
+            <l>With an olde hatte on his hede</l>
+            <pb facs="tcp:868:40"/>
+            <l>And in a sacke he was I wede</l>
+            <l>Stronge he semed and well made</l>
+            <l>The prynce anone to hym rode</l>
+            <l>And well fayre he dyde hym frayne</l>
+            <l>Yf he coude ought of marlyn sayne</l>
+            <l>Or tell hym ony thynge</l>
+            <l>Where was his moost dwellynge</l>
+            <l>Ye syr he sayd by saynt Rychere</l>
+            <l>Ryght now marlyn was here</l>
+            <l>Had ye come or ye dyde</l>
+            <l>ye had hym founde in this stede</l>
+            <l>And yf ye coude marlyn knowe</l>
+            <l>He is not yet ferre goo</l>
+            <l>And therfore ryde on thy way</l>
+            <l>Also fast as thou may</l>
+            <l>And on thy ryght honde full rathe</l>
+            <l>Thou shalte fynde a lytell pathe</l>
+            <l>That thorowe that forest lyethe</l>
+            <l>In that way ryde forthe swythe</l>
+            <l>Wherby without wene</l>
+            <l>There shalte thou marlyn sene</l>
+            <l>Than was the prynce gladde</l>
+            <l>And rode forth as he hym badde</l>
+            <l>As the herde hym sayd he fonde</l>
+            <l>A pathe on his ryght honde</l>
+            <l>They torned theym euerychone</l>
+            <l>In that waye they rode anone</l>
+            <l>Whan they had ryden in that way</l>
+            <l>Almoost a myle of that countrey</l>
+            <l>With Marlyn mette they often than</l>
+            <l>As it were a stoute chapman</l>
+            <l>With a ferdell on his backe</l>
+            <pb facs="tcp:868:41"/>
+            <l>And to the prynce fayre he spake</l>
+            <l>The prynce hym answered there</l>
+            <l>And asked hym by his chaffere</l>
+            <l>yf he mette ought with Marlyn</l>
+            <l>ye syr he sayd by saynt Martyn</l>
+            <l>A lytell here before thy syght</l>
+            <l>I was there he was nowe ryght</l>
+            <l>And yet he sayd by saynt Ihone</l>
+            <l>He is not yet ferre gone</l>
+            <l>Therfore ryde forth bylyue</l>
+            <l>As faste as ye may dryue</l>
+            <l>And thou shalte fynde hym in a whyle</l>
+            <l>Or thou haue ryden halfe a myle</l>
+            <l>With Marlyn thou shalte speke than</l>
+            <l>Or thou speke with ony man</l>
+            <l>Than was the prynce glad and blythe</l>
+            <l>And prycked forth also swythe</l>
+            <l>They rode a whyle as they wolde</l>
+            <l>Ryght as the chapman them tolde</l>
+            <l>They met Marlyn on a playne</l>
+            <l>As he were a doughty swayne</l>
+            <l>Clothed he was in a robe of rede</l>
+            <l>And lapped in a mantell in dede</l>
+            <l>And bare a ganelocke in his honde</l>
+            <l>And spake as man of straunge londe</l>
+            <l>Whan he with the prynce met</l>
+            <l>Hendely he hym gret</l>
+            <l>And the prynce full hendelye</l>
+            <l>Asked hym for his curteysye</l>
+            <l>If he met ought that daye</l>
+            <l>Marlyn by the waye</l>
+            <l>Syr he sayd by saynt Myghell</l>
+            <pb facs="tcp:868:41"/>
+            <l>Marlyn I knowe very well</l>
+            <l>Ryght nowe he sayd sekerly</l>
+            <l>Marlyn was here faste by</l>
+            <l>Haddest thou ryden a lytell bet</l>
+            <l>With Marlyn thou myghtest haue met</l>
+            <l>And syr he sayd without othe</l>
+            <l>He is a quaynt boye for sothe</l>
+            <l>To fynde hym it is strounge</l>
+            <l>Thoughe ye seke hym neuer so longe</l>
+            <l>So well I knowe marlyns thought</l>
+            <l>Without my helpe ye gete hym nought</l>
+            <l>yf thou of hym wylte haue speche</l>
+            <l>Thou must do as I the reche</l>
+            <l>The nexte towne here by syde</l>
+            <l>There thou must Marlyn abyde</l>
+            <l>And certaynly chylde marlyn</l>
+            <l>Shall come to your ynne</l>
+            <l>And speke with the this nyght</l>
+            <l>There thou shalte haue of hym a syght</l>
+            <l>Than myghtest thou bothe loude and styll</l>
+            <l>Speke with Marlyn all thy fyll</l>
+            <l>Then was the prynce full gladde</l>
+            <l>And dyde as the swayne hym badde</l>
+            <l>And toke his ynne in the towne</l>
+            <l>As a lorde of grete renowne</l>
+            <l>Now may ye here in this ryme</l>
+            <l>How Marlyn came the fyrste tyme</l>
+            <l>And how he the prynce mette</l>
+            <l>And how he hym grete</l>
+            <l>And how Pendragon was kynge</l>
+            <l>And how Marlyn without lesynge</l>
+            <l>Dwelled with hym and his meyne</l>
+            <pb facs="tcp:868:42"/>
+            <l>And wyst all his preuyte</l>
+            <l>And how he was his counceylere</l>
+            <l>Fyll the cuppe and ye shall here</l>
+            <l>Whan it was within the nyght</l>
+            <l>Marlyn came to hym full ryght</l>
+            <l>In the gyse of a sawyne</l>
+            <l>As he mette hym on the playne</l>
+            <l>And sayd as men fynde in boke</l>
+            <l>To the prynce god the loke</l>
+            <l>Lo am here that thou hast sought</l>
+            <l>Tell now me what is thy thought</l>
+            <l>Vp thenne sterte Pendragon</l>
+            <l>And toke hym in his armes anone</l>
+            <l>And prayed hym with hym to lyue</l>
+            <l>And what he wolde he sholde hym gyue</l>
+            <l>Marlyn sayd veramente</l>
+            <l>I am at your commaundemente</l>
+            <l>Than was the prynce glad and blythe</l>
+            <l>And thanked hym ofte sythe</l>
+            <l>Than sayd marlyn by saynt Rycher</l>
+            <l>I come now fro thy brother Vter</l>
+            <l>And thorugh my counceyll &amp; his myght</l>
+            <l>Kynge angys is slayne this nyght</l>
+            <l>Thenne was the prynce very glade</l>
+            <l>And grete solace togyder they made</l>
+            <l>All that there were were full fayne</l>
+            <l>On the morowe they wente home agayne</l>
+            <l>And founde kynge angys slawe</l>
+            <l>His hede vp sete his body to drawe</l>
+            <l>Pendragon asked vter ywys</l>
+            <l>Who hadde slayne kynge angys</l>
+            <l>And he answered hym agayne</l>
+            <pb facs="tcp:868:42"/>
+            <l>How he was warned thorugh a swayne</l>
+            <l>And tolde hym without lesynge</l>
+            <l>How he slewe the hethen kynge</l>
+            <l>Whan he had tolde how he dyde</l>
+            <l>And thanked god in that stede</l>
+            <l>Thenne speke Pendragon</l>
+            <l>And sayd to Vther anone</l>
+            <l>He that helpe the at thy nede</l>
+            <l>It was Marlyn so god me spede</l>
+            <l>That stondeth here now by the</l>
+            <l>Vther hym thanked with herte fre</l>
+            <l>And prayed hym for all thynge</l>
+            <l>To make there his dwellynge</l>
+            <l>For in that castell without lesse</l>
+            <l>Many a sarasyne there was</l>
+            <l>That no man myght on them wynne</l>
+            <l>Ne peyre them with no gynne</l>
+            <l>Therfore the hoost styll laye</l>
+            <l>And sythe on the thyrde daye</l>
+            <l>Two knyghtes came fro the sarasynes</l>
+            <l>That were in the Castell synes</l>
+            <l>And sayd that they wolde yelde the castell</l>
+            <l>Yf they myght passe well</l>
+            <l>In to Denmarke without dere</l>
+            <l>And on a boke they wolde swere</l>
+            <l>That they wolde neuer come agayne</l>
+            <l>And Marlyn sente them sayne</l>
+            <l>They sholde passe euerychone</l>
+            <l>By Vthers leue and pendragon</l>
+            <l>Whan they had swore all and some</l>
+            <l>They sholde no more in Englonde come</l>
+            <pb facs="tcp:868:43"/>
+            <l>They wente to the see stronde</l>
+            <l>And passed them to theyr londe</l>
+            <l>Than was Englonde blythe and glad</l>
+            <l>And sythe thrughe comyn radde</l>
+            <l>Pendragon the crowne name</l>
+            <l>And kynge of Englonde he became</l>
+            <l>In Englonde he was kynge</l>
+            <l>But thre yere without lesynge</l>
+            <l>And sythe he was slayne rathe</l>
+            <l>With vnryght and that was scathe</l>
+            <l>I wyll you tell in what manere</l>
+            <l>Herken it now and ye shall here</l>
+         </div>
+         <div type="part">
+            <l>IT befell in Denmarke</l>
+            <l>Two sarasyns that were sterke</l>
+            <l>That were of kynge angys kynrede</l>
+            <l>And of his blood they were descended</l>
+            <l>The one was come of the brother</l>
+            <l>And of the syster came the other</l>
+            <l>Stronge men they were and fell</l>
+            <l>Full well I can theyr names tell</l>
+            <l>The one was called syr Gamoure</l>
+            <l>And the other Metradoure</l>
+            <l>Grete lordes they were of londe</l>
+            <l>Metrador helde in his honde</l>
+            <l>Two ducheys and Gamor thre</l>
+            <l>Agayne them durst no man be</l>
+            <l>Whan they herde that kynge angys</l>
+            <l>In Englonde was slayne I ywys</l>
+            <l>As soone as they dyde togyder speke</l>
+            <l>Theyr enemys deth to a wreke</l>
+            <l>They gadred them stronge myght</l>
+            <l>Duke / Erle / baron / and knyght</l>
+            <pb facs="tcp:868:43"/>
+            <l>So grete an hoost togyder they brought</l>
+            <l>The nombre can I tell nought</l>
+            <l>In to shyppe they wente than</l>
+            <l>And to sayle they fast began</l>
+            <l>So the wynde gan them blowe</l>
+            <l>They aryued vp at brystowe</l>
+            <l>Marlyn wyst that well anone</l>
+            <l>And tolde Vther and pendragon</l>
+            <l>There was come frome denmarke</l>
+            <l>A stronge hoost and a sterke</l>
+            <l>With many a sarasyne of prys</l>
+            <l>For to haue wreke kynge angys</l>
+            <l>In Englonde he sayd than</l>
+            <l>So grete an hoost sawe neuer man</l>
+            <l>And sayd one of you without lesse</l>
+            <l>Shall be slayne in that presse</l>
+            <l>And whiche of you that is</l>
+            <l>Shall haue to mede heuen blysse</l>
+            <l>But for no thynge wolde he sayen</l>
+            <l>Whiche of them sholde be slayne</l>
+            <l>But in dede as ye may here</l>
+            <l>That Marlyn loued more Vtere</l>
+            <l>The leest here of his crowne</l>
+            <l>Than he dyde pendragon</l>
+            <l>He badde them make them redy anone</l>
+            <l>Agaynst theyr enemyes for to gone</l>
+            <l>And pendragon without fayll</l>
+            <l>By the londe shall them assayll</l>
+            <l>And Vther I byde the</l>
+            <l>That thou go by the se</l>
+            <l>And loke that there escape none</l>
+            <l>But they be slayne euerychone</l>
+            <pb facs="tcp:868:44"/>
+            <l>Pendragon was a doughty knyght</l>
+            <l>Eger and fell in euery fyght</l>
+            <l>He dyde neuer forsake to bere</l>
+            <l>Agaynst a man shylde and spere</l>
+            <l>And fyght with swerde without fayle</l>
+            <l>And that was sene in that batayle</l>
+            <l>He toke his hoost with myght &amp; mayne</l>
+            <l>And wente the sarasyns agayne</l>
+            <l>Whan they were togyder mette</l>
+            <l>Strokes there well I sette</l>
+            <l>Of many a doughty sarasyn</l>
+            <l>He clefte theyr hedes to the skyn</l>
+            <l>And many a knyght there was in haste</l>
+            <l>Slayne and out of theyr sadyll cast</l>
+            <l>Vther by the see was wente</l>
+            <l>And hym tolde veramente</l>
+            <l>Chylde Marlyn in his sawe</l>
+            <l>That there he sholde not be slawe</l>
+            <l>Than in hast he was full lyghte</l>
+            <l>Fell and fresshe for to fyghte</l>
+            <l>Egerly without ony fayle</l>
+            <l>The sarasyns he began to assayle</l>
+            <l>Vther and his felowe rede</l>
+            <l>Doughty men they were of dede</l>
+            <l>All that they myght bylyue</l>
+            <l>Some they reued of theyr lyue</l>
+            <l>Pendragon and his folke in haste</l>
+            <l>The sarasyns downe they caste</l>
+            <l>There was none that ayenst them stode</l>
+            <l>But flowe awaye as they were wode</l>
+            <l>Vther in that same tyde</l>
+            <l>Kepte them by the water syde</l>
+            <pb facs="tcp:868:44"/>
+            <l>With strokes yll and dyntes harde</l>
+            <l>Drofe them all ayen warde</l>
+            <l>Thus they were chased bytwene them two</l>
+            <l>That them was neuer erste so wo</l>
+            <l>Whan they no ferther myghte</l>
+            <l>On Pendragon they gone to fyght</l>
+            <l>An hondred sarasyns in a route</l>
+            <l>Be sette hym all aboute</l>
+            <l>Who had sene Pendragon than</l>
+            <l>Myghte haue sene a doughty man</l>
+            <l>Agayne the sarasyns to fyghte</l>
+            <l>Whyle that he had his lymmes a ryghte</l>
+            <l>All that euer myght a reche</l>
+            <l>They had neuer other leche</l>
+            <l>The sarasyns were stronge and grym</l>
+            <l>And slewe his stede vnder hym</l>
+            <l>Whan he had loste his stede</l>
+            <l>Grete meruayle it is in bokes to rede</l>
+            <l>How he faught &amp; on fote stode</l>
+            <l>Tyll he loste his herte bode</l>
+            <l>An hondred sarasyns on a rewe</l>
+            <l>Atte ones began on hym to hewe</l>
+            <l>And brake bothe backe and arme</l>
+            <l>And slewe hym and that was harme</l>
+            <l>Whan Vther that vnderstode</l>
+            <l>That his broder was slayne he was wode</l>
+            <l>And badde his folke faste fyght</l>
+            <l>And he bestyred hym as a knyght</l>
+            <l>Of .xxx. M. that were on lyue</l>
+            <l>There escaped away not fyue</l>
+            <l>Of Englysshe men there were slayne</l>
+            <l>But thre hondred y<seg rend="sup">t</seg> ony man coude saynt<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+            </l>
+            <pb facs="tcp:868:45"/>
+            <l>Bytwene hath and brystewe the</l>
+            <l>Thre myle myght no man go</l>
+            <l>Neyther in dal<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> neyther in d<gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>
+            </l>
+            <l>But he trade on dede men</l>
+            <l>Whan it was agaynst the nyght</l>
+            <l>Vther dyde dyscomfyte the fyght</l>
+            <l>With many an Erle and baroune</l>
+            <l>And with knyghtes of grete renoune</l>
+            <l>They wente home to theyr In</l>
+            <l>On y<seg rend="sup">e</seg> morowe by the counc<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>yll of Marlyn</l>
+            <l>Pendragon was out sought</l>
+            <l>And in the erthe fayre I brought</l>
+            <l>Beryed he was full mery</l>
+            <l>In the towne of Glastenbery</l>
+            <l>Thus ended the doughty kynge</l>
+            <l>God gyue his soule good endynge</l>
+            <l>And after that Pendragon was dede</l>
+            <l>Vther was crowned by comyn rede</l>
+            <l>And helde Englonde to ryght</l>
+            <l>I praye to god full of myght</l>
+            <l>Graunte them heuen blysse aboue</l>
+            <l>Amen for his moder<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>
+            </l>
+            <l>And gyue them all go<gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>
+               <gap reason="illegible" resp="#murp" extent="1 chunk">
+                  <desc>…</desc>
+               </gap>nge</l>
+            <l>That haue herde this talkynge</l>
+         </div>
+         <trailer>¶ Here endeth a lytell treatyse of Marlyn whiche prophefyed of many fortunes or hap<g ref="char:EOLunhyphen"/>pes here in Englonde.</trailer>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>Enprynted in Lōdon in flete strete at the sygne of y<seg rend="sup">e</seg> sonne by Wyn<g ref="char:EOLunhyphen"/>kyn de Worde. the yere of oure lorde a .M.CCCCC. and .x.</p>
+            <pb facs="tcp:868:45"/>
+         </div>
+      </back>
+   </text>
+</TEI>
